@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Forecasting Demo</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 2rem; }
+      input, button { font-size: 1rem; }
+      .forecast { margin-top: 1rem; }
+    </style>
+  </head>
+  <body>
+    <h1>Forecasting Demo</h1>
+    <p>Upload a CSV and the app will produce a simple naive forecast of the first numeric column.</p>
+    <form method="post" enctype="multipart/form-data">
+      <label>CSV file: <input type="file" name="file" accept=".csv"></label>
+      <label style="margin-left:1rem">Periods: <input type="number" name="periods" value="12" min="1" style="width:5rem"></label>
+      <button type="submit">Run Forecast</button>
+    </form>
+    {% if message %}
+      <p style="color:crimson">{{ message }}</p>
+    {% endif %}
+    {% if forecast is not none %}
+      <div class="forecast">
+        <h2>Forecast ({{ periods }} periods)</h2>
+        {% if forecast|length == 0 %}
+          <p>No forecast could be generated.</p>
+        {% else %}
+          <ol>
+            {% for v in forecast %}
+              <li>{{ v }}</li>
+            {% endfor %}
+          </ol>
+        {% endif %}
+      </div>
+    {% endif %}
+  </body>
+</html>

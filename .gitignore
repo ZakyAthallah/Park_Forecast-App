@@ -1,0 +1,13 @@
+# Python
+App/.venv/
+App/__pycache__/
+App/**/*.pyc
+App/**/*.pyo
+
+# IDE
+App/.vscode/
+App/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
