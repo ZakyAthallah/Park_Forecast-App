@@ -1,0 +1,1454 @@
+﻿Tanggal,Hari,Minggu Ke,Status Minggu,Kondisi Parkiran,Jumlah Roda 2,Jumlah Roda 4,Jumlah Total
+2022-01-03,Senin,1,Libur Akademik,Sepi,385,22,407
+2022-01-04,Selasa,1,Libur Akademik,Sepi,389,23,412
+2022-01-05,Rabu,1,Libur Akademik,Sepi,389,23,412
+2022-01-06,Kamis,1,Libur Akademik,Sepi,387,22,409
+2022-01-07,Jumat,1,Libur Akademik,Sepi,380,22,402
+2022-01-08,Sabtu,1,Libur,Sepi,329,18,347
+2022-01-09,Minggu,1,Libur,Sepi,322,17,339
+2022-01-10,Senin,2,Libur Akademik,Sepi,380,21,401
+2022-01-11,Selasa,2,Libur Akademik,Sepi,383,22,405
+2022-01-12,Rabu,2,Libur Akademik,Sepi,388,22,410
+2022-01-13,Kamis,2,Libur Akademik,Sepi,382,22,404
+2022-01-14,Jumat,2,Libur Akademik,Sepi,378,21,399
+2022-01-15,Sabtu,2,Libur,Sepi,322,18,340
+2022-01-16,Minggu,2,Libur,Sepi,317,18,335
+2022-01-17,Senin,3,Libur Akademik,Sepi,376,22,398
+2022-01-18,Selasa,3,Libur Akademik,Sepi,381,22,403
+2022-01-19,Rabu,3,Libur Akademik,Sepi,388,22,410
+2022-01-20,Kamis,3,Libur Akademik,Sepi,388,22,410
+2022-01-21,Jumat,3,Libur Akademik,Sepi,384,22,406
+2022-01-22,Sabtu,3,Libur,Sepi,328,18,346
+2022-01-23,Minggu,3,Libur,Sepi,324,18,342
+2022-01-24,Senin,4,Libur Akademik,Sepi,384,22,406
+2022-01-25,Selasa,4,Libur Akademik,Sepi,389,23,412
+2022-01-26,Rabu,4,Libur Akademik,Sepi,393,23,416
+2022-01-27,Kamis,4,Libur Akademik,Sepi,395,23,418
+2022-01-28,Jumat,4,Libur Akademik,Sepi,391,22,413
+2022-01-29,Sabtu,4,Libur,Sepi,338,19,357
+2022-01-30,Minggu,4,Libur,Sepi,333,19,352
+2022-01-31,Senin,5,Libur Akademik,Sepi,386,23,409
+2022-02-01,Selasa,5,Libur Akademik,Sepi,393,23,416
+2022-02-02,Rabu,5,Libur Akademik,Sepi,400,23,423
+2022-02-03,Kamis,5,Libur Akademik,Sepi,399,23,422
+2022-02-04,Jumat,5,Libur Akademik,Sepi,392,22,414
+2022-02-05,Sabtu,5,Libur,Sepi,334,19,353
+2022-02-06,Minggu,5,Libur,Sepi,330,19,349
+2022-02-07,Senin,6,Libur Akademik,Sepi,383,22,405
+2022-02-08,Selasa,6,Libur Akademik,Sepi,394,23,417
+2022-02-09,Rabu,6,Libur Akademik,Sepi,393,23,416
+2022-02-10,Kamis,6,Libur Akademik,Sepi,394,22,416
+2022-02-11,Jumat,6,Libur Akademik,Sepi,383,22,405
+2022-02-12,Sabtu,6,Libur,Sepi,329,19,348
+2022-02-13,Minggu,6,Libur,Sepi,318,18,336
+2022-02-14,Senin,7,Libur Akademik,Sepi,379,22,401
+2022-02-15,Selasa,7,Libur Akademik,Sepi,387,22,409
+2022-02-16,Rabu,7,Libur Akademik,Sepi,388,23,411
+2022-02-17,Kamis,7,Libur Akademik,Sepi,391,22,413
+2022-02-18,Jumat,7,Libur Akademik,Sepi,384,22,406
+2022-02-19,Sabtu,7,Libur,Sepi,329,18,347
+2022-02-20,Minggu,7,Libur,Sepi,323,18,341
+2022-02-21,Senin,8,Libur Akademik,Sepi,380,22,402
+2022-02-22,Selasa,8,Libur Akademik,Sepi,395,23,418
+2022-02-23,Rabu,8,Libur Akademik,Sepi,400,23,423
+2022-02-24,Kamis,8,Libur Akademik,Sepi,400,23,423
+2022-02-25,Jumat,8,Libur Akademik,Sepi,389,23,412
+2022-02-26,Sabtu,8,Libur,Sepi,339,19,358
+2022-02-27,Minggu,8,Libur,Sepi,328,18,346
+2022-02-28,Senin,9,Libur Akademik,Sepi,392,23,415
+2022-03-01,Selasa,9,Perkuliahan,Ramai,1912,107,2019
+2022-03-02,Rabu,9,Perkuliahan,Ramai,1917,106,2023
+2022-03-03,Kamis,9,Perkuliahan,Ramai,1915,107,2022
+2022-03-04,Jumat,9,Perkuliahan,Ramai,1901,107,2008
+2022-03-05,Sabtu,9,Libur,Sepi,338,19,357
+2022-03-06,Minggu,9,Libur,Sepi,329,18,347
+2022-03-07,Senin,10,Perkuliahan,Sepi,1891,106,1997
+2022-03-08,Selasa,10,Perkuliahan,Ramai,1906,105,2011
+2022-03-09,Rabu,10,Perkuliahan,Ramai,1910,105,2015
+2022-03-10,Kamis,10,Perkuliahan,Ramai,1898,106,2004
+2022-03-11,Jumat,10,Perkuliahan,Sepi,1876,105,1981
+2022-03-12,Sabtu,10,Libur,Sepi,335,19,354
+2022-03-13,Minggu,10,Libur,Sepi,323,18,341
+2022-03-14,Senin,11,Perkuliahan,Sepi,1881,105,1986
+2022-03-15,Selasa,11,Perkuliahan,Sepi,1894,105,1999
+2022-03-16,Rabu,11,Perkuliahan,Ramai,1896,105,2001
+2022-03-17,Kamis,11,Perkuliahan,Sepi,1881,104,1985
+2022-03-18,Jumat,11,Perkuliahan,Sepi,1875,105,1980
+2022-03-19,Sabtu,11,Libur,Sepi,336,18,354
+2022-03-20,Minggu,11,Libur,Sepi,324,19,343
+2022-03-21,Senin,12,Perkuliahan,Ramai,1898,106,2004
+2022-03-22,Selasa,12,Perkuliahan,Sepi,1891,106,1997
+2022-03-23,Rabu,12,Perkuliahan,Ramai,1916,107,2023
+2022-03-24,Kamis,12,Perkuliahan,Ramai,1918,107,2025
+2022-03-25,Jumat,12,Perkuliahan,Ramai,1905,107,2012
+2022-03-26,Sabtu,12,Libur,Sepi,343,20,363
+2022-03-27,Minggu,12,Libur,Sepi,336,19,355
+2022-03-28,Senin,13,Perkuliahan,Ramai,1902,106,2008
+2022-03-29,Selasa,13,Perkuliahan,Ramai,1918,107,2025
+2022-03-30,Rabu,13,Perkuliahan,Ramai,1931,107,2038
+2022-03-31,Kamis,13,Perkuliahan,Ramai,1920,107,2027
+2022-04-01,Jumat,13,Perkuliahan,Ramai,1906,106,2012
+2022-04-02,Sabtu,13,Libur,Sepi,338,20,358
+2022-04-03,Minggu,13,Libur,Sepi,336,19,355
+2022-04-04,Senin,14,Perkuliahan,Ramai,1898,106,2004
+2022-04-05,Selasa,14,Perkuliahan,Ramai,1917,106,2023
+2022-04-06,Rabu,14,Perkuliahan,Ramai,1912,107,2019
+2022-04-07,Kamis,14,Perkuliahan,Ramai,1911,106,2017
+2022-04-08,Jumat,14,Perkuliahan,Sepi,1893,105,1998
+2022-04-09,Sabtu,14,Libur,Sepi,334,19,353
+2022-04-10,Minggu,14,Libur,Sepi,326,18,344
+2022-04-11,Senin,15,Perkuliahan,Sepi,1887,105,1992
+2022-04-12,Selasa,15,Perkuliahan,Ramai,1895,106,2001
+2022-04-13,Rabu,15,Perkuliahan,Sepi,1893,106,1999
+2022-04-14,Kamis,15,Perkuliahan,Sepi,1887,105,1992
+2022-04-15,Jumat,15,Perkuliahan,Sepi,1878,105,1983
+2022-04-16,Sabtu,15,Libur,Sepi,330,18,348
+2022-04-17,Minggu,15,Libur,Sepi,327,18,345
+2022-04-18,Senin,16,Perkuliahan,Sepi,1884,106,1990
+2022-04-19,Selasa,16,Perkuliahan,Sepi,1891,106,1997
+2022-04-20,Rabu,16,Perkuliahan,Ramai,1899,106,2005
+2022-04-21,Kamis,16,Perkuliahan,Ramai,1908,107,2015
+2022-04-22,Jumat,16,Perkuliahan,Sepi,1885,105,1990
+2022-04-23,Sabtu,16,Libur,Sepi,338,19,357
+2022-04-24,Minggu,16,Libur,Sepi,327,19,346
+2022-04-25,Senin,17,Perkuliahan,Ramai,1897,107,2004
+2022-04-26,Selasa,17,Perkuliahan,Ramai,1913,107,2020
+2022-04-27,Rabu,17,Perkuliahan,Ramai,1910,107,2017
+2022-04-28,Kamis,17,Perkuliahan,Ramai,1907,107,2014
+2022-04-29,Jumat,17,Perkuliahan,Ramai,1911,107,2018
+2022-04-30,Sabtu,17,Libur,Sepi,340,19,359
+2022-05-01,Minggu,17,Libur,Sepi,330,19,349
+2022-05-02,Senin,18,Perkuliahan,Ramai,1897,107,2004
+2022-05-03,Selasa,18,Perkuliahan,Ramai,1919,107,2026
+2022-05-04,Rabu,18,Perkuliahan,Ramai,1915,106,2021
+2022-05-05,Kamis,18,Perkuliahan,Ramai,1908,107,2015
+2022-05-06,Jumat,18,Perkuliahan,Ramai,1897,106,2003
+2022-05-07,Sabtu,18,Libur,Sepi,333,19,352
+2022-05-08,Minggu,18,Libur,Sepi,325,18,343
+2022-05-09,Senin,19,Perkuliahan,Sepi,1880,105,1985
+2022-05-10,Selasa,19,Perkuliahan,Ramai,1895,106,2001
+2022-05-11,Rabu,19,Perkuliahan,Sepi,1889,105,1994
+2022-05-12,Kamis,19,Perkuliahan,Sepi,1878,104,1982
+2022-05-13,Jumat,19,Perkuliahan,Sepi,1878,105,1983
+2022-05-14,Sabtu,19,Libur,Sepi,331,19,350
+2022-05-15,Minggu,19,Libur,Sepi,325,17,342
+2022-05-16,Senin,20,Perkuliahan,Sepi,1871,105,1976
+2022-05-17,Selasa,20,Perkuliahan,Sepi,1889,106,1995
+2022-05-18,Rabu,20,Perkuliahan,Sepi,1882,106,1988
+2022-05-19,Kamis,20,Perkuliahan,Sepi,1882,106,1988
+2022-05-20,Jumat,20,Perkuliahan,Sepi,1875,104,1979
+2022-05-21,Sabtu,20,Libur,Sepi,328,18,346
+2022-05-22,Minggu,20,Libur,Sepi,327,18,345
+2022-05-23,Senin,21,Perkuliahan,Sepi,1873,106,1979
+2022-05-24,Selasa,21,Perkuliahan,Ramai,1901,105,2006
+2022-05-25,Rabu,21,Perkuliahan,Ramai,1909,106,2015
+2022-05-26,Kamis,21,Perkuliahan,Ramai,1898,107,2005
+2022-05-27,Jumat,21,Perkuliahan,Sepi,1892,106,1998
+2022-05-28,Sabtu,21,Libur,Sepi,333,19,352
+2022-05-29,Minggu,21,Libur,Sepi,329,19,348
+2022-05-30,Senin,22,Perkuliahan,Ramai,1899,106,2005
+2022-05-31,Selasa,22,Perkuliahan,Sepi,1893,106,1999
+2022-06-01,Rabu,22,Ujian,Sangat Ramai,4120,227,4347
+2022-06-02,Kamis,22,Ujian,Sangat Ramai,4128,228,4356
+2022-06-03,Jumat,22,Ujian,Sangat Ramai,4097,226,4323
+2022-06-04,Sabtu,22,Libur,Sepi,337,18,355
+2022-06-05,Minggu,22,Libur,Sepi,324,18,342
+2022-06-06,Senin,23,Ujian,Sangat Ramai,4100,226,4326
+2022-06-07,Selasa,23,Ujian,Sangat Ramai,4088,226,4314
+2022-06-08,Rabu,23,Ujian,Sangat Ramai,4084,227,4311
+2022-06-09,Kamis,23,Ujian,Sangat Ramai,4080,227,4307
+2022-06-10,Jumat,23,Ujian,Sangat Ramai,4060,226,4286
+2022-06-11,Sabtu,23,Libur,Sepi,329,18,347
+2022-06-12,Minggu,23,Libur,Sepi,315,17,332
+2022-06-13,Senin,24,Ujian,Sangat Ramai,4064,226,4290
+2022-06-14,Selasa,24,Ujian,Sangat Ramai,4060,225,4285
+2022-06-15,Rabu,24,Ujian,Sangat Ramai,4070,225,4295
+2022-06-16,Kamis,24,Ujian,Sangat Ramai,4076,224,4300
+2022-06-17,Jumat,24,Ujian,Sangat Ramai,4041,225,4266
+2022-06-18,Sabtu,24,Libur,Sepi,322,18,340
+2022-06-19,Minggu,24,Libur,Sepi,316,18,334
+2022-06-20,Senin,25,Ujian,Sangat Ramai,4065,224,4289
+2022-06-21,Selasa,25,Ujian,Sangat Ramai,4082,225,4307
+2022-06-22,Rabu,25,Ujian,Sangat Ramai,4066,226,4292
+2022-06-23,Kamis,25,Ujian,Sangat Ramai,4094,225,4319
+2022-06-24,Jumat,25,Ujian,Sangat Ramai,4060,226,4286
+2022-06-25,Sabtu,25,Libur,Sepi,330,18,348
+2022-06-26,Minggu,25,Libur,Sepi,322,18,340
+2022-06-27,Senin,26,Ujian,Sangat Ramai,4067,225,4292
+2022-06-28,Selasa,26,Ujian,Sangat Ramai,4082,226,4308
+2022-06-29,Rabu,26,Ujian,Sangat Ramai,4108,226,4334
+2022-06-30,Kamis,26,Ujian,Sangat Ramai,4091,227,4318
+2022-07-01,Jumat,26,Ujian,Sangat Ramai,4074,225,4299
+2022-07-02,Sabtu,26,Libur,Sepi,328,19,347
+2022-07-03,Minggu,26,Libur,Sepi,319,18,337
+2022-07-04,Senin,27,Ujian,Sangat Ramai,4080,225,4305
+2022-07-05,Selasa,27,Ujian,Sangat Ramai,4074,227,4301
+2022-07-06,Rabu,27,Ujian,Sangat Ramai,4064,225,4289
+2022-07-07,Kamis,27,Ujian,Sangat Ramai,4055,224,4279
+2022-07-08,Jumat,27,Ujian,Sangat Ramai,4065,224,4289
+2022-07-09,Sabtu,27,Libur,Sepi,326,18,344
+2022-07-10,Minggu,27,Libur,Sepi,316,17,333
+2022-07-11,Senin,28,Ujian,Sangat Ramai,4024,224,4248
+2022-07-12,Selasa,28,Ujian,Sangat Ramai,4048,224,4272
+2022-07-13,Rabu,28,Ujian,Sangat Ramai,4054,225,4279
+2022-07-14,Kamis,28,Ujian,Sangat Ramai,4035,223,4258
+2022-07-15,Jumat,28,Ujian,Sangat Ramai,4029,223,4252
+2022-07-16,Sabtu,28,Libur,Sepi,322,17,339
+2022-07-17,Minggu,28,Libur,Sepi,315,17,332
+2022-07-18,Senin,29,Ujian,Sangat Ramai,4039,223,4262
+2022-07-19,Selasa,29,Ujian,Sangat Ramai,4043,224,4267
+2022-07-20,Rabu,29,Ujian,Sangat Ramai,4055,224,4279
+2022-07-21,Kamis,29,Ujian,Sangat Ramai,4055,224,4279
+2022-07-22,Jumat,29,Ujian,Sangat Ramai,4035,222,4257
+2022-07-23,Sabtu,29,Libur,Sepi,322,18,340
+2022-07-24,Minggu,29,Libur,Sepi,320,18,338
+2022-07-25,Senin,30,Ujian,Sangat Ramai,4036,224,4260
+2022-07-26,Selasa,30,Ujian,Sangat Ramai,4051,225,4276
+2022-07-27,Rabu,30,Ujian,Sangat Ramai,4077,225,4302
+2022-07-28,Kamis,30,Ujian,Sangat Ramai,4060,225,4285
+2022-07-29,Jumat,30,Ujian,Sangat Ramai,4044,224,4268
+2022-07-30,Sabtu,30,Libur,Sepi,330,18,348
+2022-07-31,Minggu,30,Libur,Sepi,320,17,337
+2022-08-01,Senin,31,Libur Akademik,Sepi,378,22,400
+2022-08-02,Selasa,31,Libur Akademik,Sepi,387,22,409
+2022-08-03,Rabu,31,Libur Akademik,Sepi,387,22,409
+2022-08-04,Kamis,31,Libur Akademik,Sepi,385,21,406
+2022-08-05,Jumat,31,Libur Akademik,Sepi,377,21,398
+2022-08-06,Sabtu,31,Libur,Sepi,323,18,341
+2022-08-07,Minggu,31,Libur,Sepi,318,17,335
+2022-08-08,Senin,32,Libur Akademik,Sepi,373,22,395
+2022-08-09,Selasa,32,Libur Akademik,Sepi,381,21,402
+2022-08-10,Rabu,32,Libur Akademik,Sepi,379,21,400
+2022-08-11,Kamis,32,Libur Akademik,Sepi,379,21,400
+2022-08-12,Jumat,32,Libur Akademik,Sepi,371,21,392
+2022-08-13,Sabtu,32,Libur,Sepi,316,17,333
+2022-08-14,Minggu,32,Libur,Sepi,315,17,332
+2022-08-15,Senin,33,Libur Akademik,Sepi,362,21,383
+2022-08-16,Selasa,33,Libur Akademik,Sepi,373,21,394
+2022-08-17,Rabu,33,Libur Akademik,Sepi,379,21,400
+2022-08-18,Kamis,33,Libur Akademik,Sepi,378,21,399
+2022-08-19,Jumat,33,Libur Akademik,Sepi,366,20,386
+2022-08-20,Sabtu,33,Libur,Sepi,317,17,334
+2022-08-21,Minggu,33,Libur,Sepi,315,17,332
+2022-08-22,Senin,34,Libur Akademik,Sepi,369,21,390
+2022-08-23,Selasa,34,Libur Akademik,Sepi,381,21,402
+2022-08-24,Rabu,34,Libur Akademik,Sepi,384,22,406
+2022-08-25,Kamis,34,Libur Akademik,Sepi,381,21,402
+2022-08-26,Jumat,34,Libur Akademik,Sepi,376,21,397
+2022-08-27,Sabtu,34,Libur,Sepi,319,17,336
+2022-08-28,Minggu,34,Libur,Sepi,317,17,334
+2022-08-29,Senin,35,Libur Akademik,Sepi,370,22,392
+2022-08-30,Selasa,35,Libur Akademik,Sepi,378,22,400
+2022-08-31,Rabu,35,Libur Akademik,Sepi,385,22,407
+2022-09-01,Kamis,35,Perkuliahan,Sepi,1858,103,1961
+2022-09-02,Jumat,35,Perkuliahan,Sepi,1854,103,1957
+2022-09-03,Sabtu,35,Libur,Sepi,320,17,337
+2022-09-04,Minggu,35,Libur,Sepi,316,17,333
+2022-09-05,Senin,36,Perkuliahan,Sepi,1825,102,1927
+2022-09-06,Selasa,36,Perkuliahan,Sepi,1846,102,1948
+2022-09-07,Rabu,36,Perkuliahan,Sepi,1832,102,1934
+2022-09-08,Kamis,36,Perkuliahan,Sepi,1832,101,1933
+2022-09-09,Jumat,36,Perkuliahan,Sepi,1836,101,1937
+2022-09-10,Sabtu,36,Libur,Sepi,315,17,332
+2022-09-11,Minggu,36,Libur,Sepi,315,17,332
+2022-09-12,Senin,37,Perkuliahan,Sepi,1817,100,1917
+2022-09-13,Selasa,37,Perkuliahan,Sepi,1831,101,1932
+2022-09-14,Rabu,37,Perkuliahan,Sepi,1830,101,1931
+2022-09-15,Kamis,37,Perkuliahan,Sepi,1815,100,1915
+2022-09-16,Jumat,37,Perkuliahan,Sepi,1805,101,1906
+2022-09-17,Sabtu,37,Libur,Sepi,315,17,332
+2022-09-18,Minggu,37,Libur,Sepi,315,17,332
+2022-09-19,Senin,38,Perkuliahan,Sepi,1815,101,1916
+2022-09-20,Selasa,38,Perkuliahan,Sepi,1828,101,1929
+2022-09-21,Rabu,38,Perkuliahan,Sepi,1832,101,1933
+2022-09-22,Kamis,38,Perkuliahan,Sepi,1826,101,1927
+2022-09-23,Jumat,38,Perkuliahan,Sepi,1818,101,1919
+2022-09-24,Sabtu,38,Libur,Sepi,322,17,339
+2022-09-25,Minggu,38,Libur,Sepi,315,17,332
+2022-09-26,Senin,39,Perkuliahan,Sepi,1829,103,1932
+2022-09-27,Selasa,39,Perkuliahan,Sepi,1844,103,1947
+2022-09-28,Rabu,39,Perkuliahan,Sepi,1850,102,1952
+2022-09-29,Kamis,39,Perkuliahan,Sepi,1848,104,1952
+2022-09-30,Jumat,39,Perkuliahan,Sepi,1843,103,1946
+2022-10-01,Sabtu,39,Libur,Sepi,318,18,336
+2022-10-02,Minggu,39,Libur,Sepi,315,17,332
+2022-10-03,Senin,40,Perkuliahan,Sepi,1837,103,1940
+2022-10-04,Selasa,40,Perkuliahan,Sepi,1837,102,1939
+2022-10-05,Rabu,40,Perkuliahan,Sepi,1853,102,1955
+2022-10-06,Kamis,40,Perkuliahan,Sepi,1835,101,1936
+2022-10-07,Jumat,40,Perkuliahan,Sepi,1835,102,1937
+2022-10-08,Sabtu,40,Libur,Sepi,315,17,332
+2022-10-09,Minggu,40,Libur,Sepi,315,17,332
+2022-10-10,Senin,41,Perkuliahan,Sepi,1814,101,1915
+2022-10-11,Selasa,41,Perkuliahan,Sepi,1818,102,1920
+2022-10-12,Rabu,41,Perkuliahan,Sepi,1824,102,1926
+2022-10-13,Kamis,41,Perkuliahan,Sepi,1832,102,1934
+2022-10-14,Jumat,41,Perkuliahan,Sepi,1820,101,1921
+2022-10-15,Sabtu,41,Libur,Sepi,315,17,332
+2022-10-16,Minggu,41,Libur,Sepi,315,17,332
+2022-10-17,Senin,42,Perkuliahan,Sepi,1806,102,1908
+2022-10-18,Selasa,42,Perkuliahan,Sepi,1812,101,1913
+2022-10-19,Rabu,42,Perkuliahan,Sepi,1832,102,1934
+2022-10-20,Kamis,42,Perkuliahan,Sepi,1836,101,1937
+2022-10-21,Jumat,42,Perkuliahan,Sepi,1824,101,1925
+2022-10-22,Sabtu,42,Libur,Sepi,316,17,333
+2022-10-23,Minggu,42,Libur,Sepi,315,17,332
+2022-10-24,Senin,43,Perkuliahan,Sepi,1826,101,1927
+2022-10-25,Selasa,43,Perkuliahan,Sepi,1847,102,1949
+2022-10-26,Rabu,43,Perkuliahan,Sepi,1840,103,1943
+2022-10-27,Kamis,43,Perkuliahan,Sepi,1852,102,1954
+2022-10-28,Jumat,43,Perkuliahan,Sepi,1843,102,1945
+2022-10-29,Sabtu,43,Libur,Sepi,320,18,338
+2022-10-30,Minggu,43,Libur,Sepi,316,17,333
+2022-10-31,Senin,44,Perkuliahan,Sepi,1835,102,1937
+2022-11-01,Selasa,44,Perkuliahan,Sepi,1858,103,1961
+2022-11-02,Rabu,44,Perkuliahan,Sepi,1852,103,1955
+2022-11-03,Kamis,44,Perkuliahan,Sepi,1844,103,1947
+2022-11-04,Jumat,44,Perkuliahan,Sepi,1853,103,1956
+2022-11-05,Sabtu,44,Libur,Sepi,319,18,337
+2022-11-06,Minggu,44,Libur,Sepi,315,17,332
+2022-11-07,Senin,45,Perkuliahan,Sepi,1840,101,1941
+2022-11-08,Selasa,45,Perkuliahan,Sepi,1838,102,1940
+2022-11-09,Rabu,45,Perkuliahan,Sepi,1848,103,1951
+2022-11-10,Kamis,45,Perkuliahan,Sepi,1845,102,1947
+2022-11-11,Jumat,45,Perkuliahan,Sepi,1836,102,1938
+2022-11-12,Sabtu,45,Libur,Sepi,316,17,333
+2022-11-13,Minggu,45,Libur,Sepi,315,17,332
+2022-11-14,Senin,46,Perkuliahan,Sepi,1814,102,1916
+2022-11-15,Selasa,46,Perkuliahan,Sepi,1826,101,1927
+2022-11-16,Rabu,46,Perkuliahan,Sepi,1824,103,1927
+2022-11-17,Kamis,46,Perkuliahan,Sepi,1833,101,1934
+2022-11-18,Jumat,46,Perkuliahan,Sepi,1825,102,1927
+2022-11-19,Sabtu,46,Libur,Sepi,315,17,332
+2022-11-20,Minggu,46,Libur,Sepi,315,17,332
+2022-11-21,Senin,47,Perkuliahan,Sepi,1834,102,1936
+2022-11-22,Selasa,47,Perkuliahan,Sepi,1848,103,1951
+2022-11-23,Rabu,47,Perkuliahan,Sepi,1840,103,1943
+2022-11-24,Kamis,47,Perkuliahan,Sepi,1855,103,1958
+2022-11-25,Jumat,47,Perkuliahan,Sepi,1852,102,1954
+2022-11-26,Sabtu,47,Libur,Sepi,328,18,346
+2022-11-27,Minggu,47,Libur,Sepi,318,17,335
+2022-11-28,Senin,48,Perkuliahan,Sepi,1849,104,1953
+2022-11-29,Selasa,48,Perkuliahan,Sepi,1869,104,1973
+2022-11-30,Rabu,48,Perkuliahan,Sepi,1858,103,1961
+2022-12-01,Kamis,48,Ujian,Sangat Ramai,4074,225,4299
+2022-12-02,Jumat,48,Ujian,Sangat Ramai,4050,225,4275
+2022-12-03,Sabtu,48,Libur,Sepi,329,18,347
+2022-12-04,Minggu,48,Libur,Sepi,318,17,335
+2022-12-05,Senin,49,Ujian,Sangat Ramai,4041,224,4265
+2022-12-06,Selasa,49,Ujian,Sangat Ramai,4062,224,4286
+2022-12-07,Rabu,49,Ujian,Sangat Ramai,4053,223,4276
+2022-12-08,Kamis,49,Ujian,Sangat Ramai,4040,225,4265
+2022-12-09,Jumat,49,Ujian,Sangat Ramai,4036,223,4259
+2022-12-10,Sabtu,49,Libur,Sepi,320,17,337
+2022-12-11,Minggu,49,Libur,Sepi,315,17,332
+2022-12-12,Senin,50,Ujian,Sangat Ramai,4018,222,4240
+2022-12-13,Selasa,50,Ujian,Sangat Ramai,4046,223,4269
+2022-12-14,Rabu,50,Ujian,Sangat Ramai,4021,223,4244
+2022-12-15,Kamis,50,Ujian,Sangat Ramai,4048,224,4272
+2022-12-16,Jumat,50,Ujian,Sangat Ramai,4038,223,4261
+2022-12-17,Sabtu,50,Libur,Sepi,320,18,338
+2022-12-18,Minggu,50,Libur,Sepi,315,17,332
+2022-12-19,Senin,51,Ujian,Sangat Ramai,4035,223,4258
+2022-12-20,Selasa,51,Ujian,Sangat Ramai,4040,225,4265
+2022-12-21,Rabu,51,Ujian,Sangat Ramai,4068,224,4292
+2022-12-22,Kamis,51,Ujian,Sangat Ramai,4066,225,4291
+2022-12-23,Jumat,51,Ujian,Sangat Ramai,4048,224,4272
+2022-12-24,Sabtu,51,Libur,Sepi,331,18,349
+2022-12-25,Minggu,51,Libur,Sepi,316,18,334
+2022-12-26,Senin,52,Ujian,Sangat Ramai,4070,226,4296
+2022-12-27,Selasa,52,Ujian,Sangat Ramai,4073,225,4298
+2022-12-28,Rabu,52,Ujian,Sangat Ramai,4097,227,4324
+2022-12-29,Kamis,52,Ujian,Sangat Ramai,4079,225,4304
+2022-12-30,Jumat,52,Ujian,Sangat Ramai,4077,227,4304
+2022-12-31,Sabtu,52,Libur,Sepi,331,18,349
+2023-01-03,Selasa,53,Libur Akademik,Sepi,394,22,416
+2023-01-04,Rabu,53,Libur Akademik,Sepi,394,23,417
+2023-01-05,Kamis,53,Libur Akademik,Sepi,388,22,410
+2023-01-06,Jumat,53,Libur Akademik,Sepi,380,22,402
+2023-01-07,Sabtu,53,Libur,Sepi,329,18,347
+2023-01-08,Minggu,53,Libur,Sepi,322,18,340
+2023-01-09,Senin,54,Libur Akademik,Sepi,381,22,403
+2023-01-10,Selasa,54,Libur Akademik,Sepi,389,22,411
+2023-01-11,Rabu,54,Libur Akademik,Sepi,388,22,410
+2023-01-12,Kamis,54,Libur Akademik,Sepi,387,22,409
+2023-01-13,Jumat,54,Libur Akademik,Sepi,375,21,396
+2023-01-14,Sabtu,54,Libur,Sepi,327,18,345
+2023-01-15,Minggu,54,Libur,Sepi,315,18,333
+2023-01-16,Senin,55,Libur Akademik,Sepi,376,22,398
+2023-01-17,Selasa,55,Libur Akademik,Sepi,385,22,407
+2023-01-18,Rabu,55,Libur Akademik,Sepi,386,22,408
+2023-01-19,Kamis,55,Libur Akademik,Sepi,387,22,409
+2023-01-20,Jumat,55,Libur Akademik,Sepi,381,21,402
+2023-01-21,Sabtu,55,Libur,Sepi,333,18,351
+2023-01-22,Minggu,55,Libur,Sepi,321,18,339
+2023-01-23,Senin,56,Libur Akademik,Sepi,383,22,405
+2023-01-24,Selasa,56,Libur Akademik,Sepi,393,23,416
+2023-01-25,Rabu,56,Libur Akademik,Sepi,394,23,417
+2023-01-26,Kamis,56,Libur Akademik,Sepi,392,23,415
+2023-01-27,Jumat,56,Libur Akademik,Sepi,388,22,410
+2023-01-28,Sabtu,56,Libur,Sepi,340,19,359
+2023-01-29,Minggu,56,Libur,Sepi,331,18,349
+2023-01-30,Senin,57,Libur Akademik,Sepi,392,23,415
+2023-01-31,Selasa,57,Libur Akademik,Sepi,395,23,418
+2023-02-01,Rabu,57,Libur Akademik,Sepi,398,23,421
+2023-02-02,Kamis,57,Libur Akademik,Sepi,399,23,422
+2023-02-03,Jumat,57,Libur Akademik,Sepi,392,23,415
+2023-02-04,Sabtu,57,Libur,Sepi,341,19,360
+2023-02-05,Minggu,57,Libur,Sepi,327,18,345
+2023-02-06,Senin,58,Libur Akademik,Sepi,389,23,412
+2023-02-07,Selasa,58,Libur Akademik,Sepi,392,23,415
+2023-02-08,Rabu,58,Libur Akademik,Sepi,399,23,422
+2023-02-09,Kamis,58,Libur Akademik,Sepi,392,23,415
+2023-02-10,Jumat,58,Libur Akademik,Sepi,387,22,409
+2023-02-11,Sabtu,58,Libur,Sepi,332,19,351
+2023-02-12,Minggu,58,Libur,Sepi,322,18,340
+2023-02-13,Senin,59,Libur Akademik,Sepi,377,22,399
+2023-02-14,Selasa,59,Libur Akademik,Sepi,388,22,410
+2023-02-15,Rabu,59,Libur Akademik,Sepi,392,23,415
+2023-02-16,Kamis,59,Libur Akademik,Sepi,387,22,409
+2023-02-17,Jumat,59,Libur Akademik,Sepi,384,22,406
+2023-02-18,Sabtu,59,Libur,Sepi,333,18,351
+2023-02-19,Minggu,59,Libur,Sepi,322,18,340
+2023-02-20,Senin,60,Libur Akademik,Sepi,382,22,404
+2023-02-21,Selasa,60,Libur Akademik,Sepi,389,23,412
+2023-02-22,Rabu,60,Libur Akademik,Sepi,400,23,423
+2023-02-23,Kamis,60,Libur Akademik,Sepi,399,23,422
+2023-02-24,Jumat,60,Libur Akademik,Sepi,393,23,416
+2023-02-25,Sabtu,60,Libur,Sepi,338,19,357
+2023-02-26,Minggu,60,Libur,Sepi,332,19,351
+2023-02-27,Senin,61,Libur Akademik,Sepi,387,23,410
+2023-02-28,Selasa,61,Libur Akademik,Sepi,401,23,424
+2023-03-01,Rabu,61,Perkuliahan,Ramai,1919,108,2027
+2023-03-02,Kamis,61,Perkuliahan,Ramai,1918,106,2024
+2023-03-03,Jumat,61,Perkuliahan,Ramai,1910,107,2017
+2023-03-04,Sabtu,61,Libur,Sepi,341,20,361
+2023-03-05,Minggu,61,Libur,Sepi,331,19,350
+2023-03-06,Senin,62,Perkuliahan,Ramai,1906,107,2013
+2023-03-07,Selasa,62,Perkuliahan,Ramai,1902,107,2009
+2023-03-08,Rabu,62,Perkuliahan,Ramai,1913,106,2019
+2023-03-09,Kamis,62,Perkuliahan,Ramai,1911,105,2016
+2023-03-10,Jumat,62,Perkuliahan,Sepi,1893,106,1999
+2023-03-11,Sabtu,62,Libur,Sepi,331,19,350
+2023-03-12,Minggu,62,Libur,Sepi,328,18,346
+2023-03-13,Senin,63,Perkuliahan,Sepi,1881,104,1985
+2023-03-14,Selasa,63,Perkuliahan,Sepi,1892,105,1997
+2023-03-15,Rabu,63,Perkuliahan,Ramai,1901,105,2006
+2023-03-16,Kamis,63,Perkuliahan,Ramai,1897,105,2002
+2023-03-17,Jumat,63,Perkuliahan,Sepi,1876,104,1980
+2023-03-18,Sabtu,63,Libur,Sepi,337,19,356
+2023-03-19,Minggu,63,Libur,Sepi,329,18,347
+2023-03-20,Senin,64,Perkuliahan,Sepi,1887,106,1993
+2023-03-21,Selasa,64,Perkuliahan,Ramai,1909,107,2016
+2023-03-22,Rabu,64,Perkuliahan,Ramai,1898,106,2004
+2023-03-23,Kamis,64,Perkuliahan,Ramai,1917,107,2024
+2023-03-24,Jumat,64,Perkuliahan,Ramai,1913,107,2020
+2023-03-25,Sabtu,64,Libur,Sepi,340,19,359
+2023-03-26,Minggu,64,Libur,Sepi,336,19,355
+2023-03-27,Senin,65,Perkuliahan,Ramai,1912,107,2019
+2023-03-28,Selasa,65,Perkuliahan,Ramai,1913,107,2020
+2023-03-29,Rabu,65,Perkuliahan,Ramai,1925,108,2033
+2023-03-30,Kamis,65,Perkuliahan,Ramai,1932,107,2039
+2023-03-31,Jumat,65,Perkuliahan,Ramai,1915,107,2022
+2023-04-01,Sabtu,65,Libur,Sepi,346,20,366
+2023-04-02,Minggu,65,Libur,Sepi,331,19,350
+2023-04-03,Senin,66,Perkuliahan,Ramai,1916,106,2022
+2023-04-04,Selasa,66,Perkuliahan,Ramai,1909,107,2016
+2023-04-05,Rabu,66,Perkuliahan,Ramai,1924,106,2030
+2023-04-06,Kamis,66,Perkuliahan,Ramai,1913,107,2020
+2023-04-07,Jumat,66,Perkuliahan,Ramai,1906,106,2012
+2023-04-08,Sabtu,66,Libur,Sepi,336,19,355
+2023-04-09,Minggu,66,Libur,Sepi,327,18,345
+2023-04-10,Senin,67,Perkuliahan,Sepi,1883,105,1988
+2023-04-11,Selasa,67,Perkuliahan,Ramai,1898,105,2003
+2023-04-12,Rabu,67,Perkuliahan,Ramai,1902,107,2009
+2023-04-13,Kamis,67,Perkuliahan,Ramai,1894,106,2000
+2023-04-14,Jumat,67,Perkuliahan,Sepi,1882,105,1987
+2023-04-15,Sabtu,67,Libur,Sepi,332,19,351
+2023-04-16,Minggu,67,Libur,Sepi,323,18,341
+2023-04-17,Senin,68,Perkuliahan,Sepi,1874,106,1980
+2023-04-18,Selasa,68,Perkuliahan,Ramai,1895,106,2001
+2023-04-19,Rabu,68,Perkuliahan,Ramai,1898,106,2004
+2023-04-20,Kamis,68,Perkuliahan,Ramai,1900,106,2006
+2023-04-21,Jumat,68,Perkuliahan,Ramai,1903,106,2009
+2023-04-22,Sabtu,68,Libur,Sepi,334,19,353
+2023-04-23,Minggu,68,Libur,Sepi,331,19,350
+2023-04-24,Senin,69,Perkuliahan,Ramai,1893,107,2000
+2023-04-25,Selasa,69,Perkuliahan,Ramai,1908,107,2015
+2023-04-26,Rabu,69,Perkuliahan,Ramai,1920,107,2027
+2023-04-27,Kamis,69,Perkuliahan,Ramai,1911,107,2018
+2023-04-28,Jumat,69,Perkuliahan,Ramai,1902,107,2009
+2023-04-29,Sabtu,69,Libur,Sepi,341,19,360
+2023-04-30,Minggu,69,Libur,Sepi,333,19,352
+2023-05-01,Senin,70,Perkuliahan,Ramai,1909,107,2016
+2023-05-02,Selasa,70,Perkuliahan,Ramai,1908,107,2015
+2023-05-03,Rabu,70,Perkuliahan,Ramai,1926,108,2034
+2023-05-04,Kamis,70,Perkuliahan,Ramai,1916,106,2022
+2023-05-05,Jumat,70,Perkuliahan,Ramai,1903,106,2009
+2023-05-06,Sabtu,70,Libur,Sepi,338,19,357
+2023-05-07,Minggu,70,Libur,Sepi,326,18,344
+2023-05-08,Senin,71,Perkuliahan,Ramai,1895,105,2000
+2023-05-09,Selasa,71,Perkuliahan,Sepi,1891,106,1997
+2023-05-10,Rabu,71,Perkuliahan,Ramai,1902,106,2008
+2023-05-11,Kamis,71,Perkuliahan,Sepi,1890,105,1995
+2023-05-12,Jumat,71,Perkuliahan,Sepi,1873,104,1977
+2023-05-13,Sabtu,71,Libur,Sepi,335,18,353
+2023-05-14,Minggu,71,Libur,Sepi,324,18,342
+2023-05-15,Senin,72,Perkuliahan,Sepi,1882,104,1986
+2023-05-16,Selasa,72,Perkuliahan,Sepi,1882,105,1987
+2023-05-17,Rabu,72,Perkuliahan,Ramai,1896,106,2002
+2023-05-18,Kamis,72,Perkuliahan,Sepi,1883,106,1989
+2023-05-19,Jumat,72,Perkuliahan,Sepi,1877,105,1982
+2023-05-20,Sabtu,72,Libur,Sepi,333,19,352
+2023-05-21,Minggu,72,Libur,Sepi,321,18,339
+2023-05-22,Senin,73,Perkuliahan,Sepi,1873,106,1979
+2023-05-23,Selasa,73,Perkuliahan,Sepi,1884,106,1990
+2023-05-24,Rabu,73,Perkuliahan,Ramai,1908,105,2013
+2023-05-25,Kamis,73,Perkuliahan,Ramai,1910,106,2016
+2023-05-26,Jumat,73,Perkuliahan,Sepi,1893,106,1999
+2023-05-27,Sabtu,73,Libur,Sepi,337,19,356
+2023-05-28,Minggu,73,Libur,Sepi,326,19,345
+2023-05-29,Senin,74,Perkuliahan,Sepi,1885,107,1992
+2023-05-30,Selasa,74,Perkuliahan,Ramai,1910,106,2016
+2023-05-31,Rabu,74,Perkuliahan,Ramai,1900,106,2006
+2023-06-01,Kamis,74,Ujian,Sangat Ramai,4123,227,4350
+2023-06-02,Jumat,74,Ujian,Sangat Ramai,4125,228,4353
+2023-06-03,Sabtu,74,Libur,Sepi,335,19,354
+2023-06-04,Minggu,74,Libur,Sepi,330,18,348
+2023-06-05,Senin,75,Ujian,Sangat Ramai,4087,228,4315
+2023-06-06,Selasa,75,Ujian,Sangat Ramai,4113,227,4340
+2023-06-07,Rabu,75,Ujian,Sangat Ramai,4097,227,4324
+2023-06-08,Kamis,75,Ujian,Sangat Ramai,4087,227,4314
+2023-06-09,Jumat,75,Ujian,Sangat Ramai,4077,226,4303
+2023-06-10,Sabtu,75,Libur,Sepi,329,18,347
+2023-06-11,Minggu,75,Libur,Sepi,322,17,339
+2023-06-12,Senin,76,Ujian,Sangat Ramai,4061,226,4287
+2023-06-13,Selasa,76,Ujian,Sangat Ramai,4077,226,4303
+2023-06-14,Rabu,76,Ujian,Sangat Ramai,4069,225,4294
+2023-06-15,Kamis,76,Ujian,Sangat Ramai,4073,225,4298
+2023-06-16,Jumat,76,Ujian,Sangat Ramai,4073,224,4297
+2023-06-17,Sabtu,76,Libur,Sepi,324,18,342
+2023-06-18,Minggu,76,Libur,Sepi,315,17,332
+2023-06-19,Senin,77,Ujian,Sangat Ramai,4051,226,4277
+2023-06-20,Selasa,77,Ujian,Sangat Ramai,4078,225,4303
+2023-06-21,Rabu,77,Ujian,Sangat Ramai,4091,225,4316
+2023-06-22,Kamis,77,Ujian,Sangat Ramai,4069,226,4295
+2023-06-23,Jumat,77,Ujian,Sangat Ramai,4091,225,4316
+2023-06-24,Sabtu,77,Libur,Sepi,330,18,348
+2023-06-25,Minggu,77,Libur,Sepi,323,18,341
+2023-06-26,Senin,78,Ujian,Sangat Ramai,4070,225,4295
+2023-06-27,Selasa,78,Ujian,Sangat Ramai,4080,226,4306
+2023-06-28,Rabu,78,Ujian,Sangat Ramai,4091,226,4317
+2023-06-29,Kamis,78,Ujian,Sangat Ramai,4111,226,4337
+2023-06-30,Jumat,78,Ujian,Sangat Ramai,4088,227,4315
+2023-07-01,Sabtu,78,Libur,Sepi,334,19,353
+2023-07-02,Minggu,78,Libur,Sepi,321,18,339
+2023-07-03,Senin,79,Ujian,Sangat Ramai,4086,227,4313
+2023-07-04,Selasa,79,Ujian,Sangat Ramai,4093,225,4318
+2023-07-05,Rabu,79,Ujian,Sangat Ramai,4083,227,4310
+2023-07-06,Kamis,79,Ujian,Sangat Ramai,4067,225,4292
+2023-07-07,Jumat,79,Ujian,Sangat Ramai,4052,224,4276
+2023-07-08,Sabtu,79,Libur,Sepi,324,18,342
+2023-07-09,Minggu,79,Libur,Sepi,319,17,336
+2023-07-10,Senin,80,Ujian,Sangat Ramai,4038,223,4261
+2023-07-11,Selasa,80,Ujian,Sangat Ramai,4037,225,4262
+2023-07-12,Rabu,80,Ujian,Sangat Ramai,4057,225,4282
+2023-07-13,Kamis,80,Ujian,Sangat Ramai,4057,225,4282
+2023-07-14,Jumat,80,Ujian,Sangat Ramai,4032,223,4255
+2023-07-15,Sabtu,80,Libur,Sepi,319,17,336
+2023-07-16,Minggu,80,Libur,Sepi,315,17,332
+2023-07-17,Senin,81,Ujian,Sangat Ramai,4017,224,4241
+2023-07-18,Selasa,81,Ujian,Sangat Ramai,4052,223,4275
+2023-07-19,Rabu,81,Ujian,Sangat Ramai,4052,225,4277
+2023-07-20,Kamis,81,Ujian,Sangat Ramai,4058,224,4282
+2023-07-21,Jumat,81,Ujian,Sangat Ramai,4052,224,4276
+2023-07-22,Sabtu,81,Libur,Sepi,326,17,343
+2023-07-23,Minggu,81,Libur,Sepi,315,17,332
+2023-07-24,Senin,82,Ujian,Sangat Ramai,4040,223,4263
+2023-07-25,Selasa,82,Ujian,Sangat Ramai,4049,225,4274
+2023-07-26,Rabu,82,Ujian,Sangat Ramai,4060,226,4286
+2023-07-27,Kamis,82,Ujian,Sangat Ramai,4080,225,4305
+2023-07-28,Jumat,82,Ujian,Sangat Ramai,4057,225,4282
+2023-07-29,Sabtu,82,Libur,Sepi,332,18,350
+2023-07-30,Minggu,82,Libur,Sepi,323,18,341
+2023-07-31,Senin,83,Ujian,Sangat Ramai,4055,225,4280
+2023-08-01,Selasa,83,Libur Akademik,Sepi,387,23,410
+2023-08-02,Rabu,83,Libur Akademik,Sepi,392,23,415
+2023-08-03,Kamis,83,Libur Akademik,Sepi,386,22,408
+2023-08-04,Jumat,83,Libur Akademik,Sepi,378,21,399
+2023-08-05,Sabtu,83,Libur,Sepi,326,18,344
+2023-08-06,Minggu,83,Libur,Sepi,316,17,333
+2023-08-07,Senin,84,Libur Akademik,Sepi,377,21,398
+2023-08-08,Selasa,84,Libur Akademik,Sepi,382,22,404
+2023-08-09,Rabu,84,Libur Akademik,Sepi,386,22,408
+2023-08-10,Kamis,84,Libur Akademik,Sepi,378,21,399
+2023-08-11,Jumat,84,Libur Akademik,Sepi,372,20,392
+2023-08-12,Sabtu,84,Libur,Sepi,320,17,337
+2023-08-13,Minggu,84,Libur,Sepi,315,17,332
+2023-08-14,Senin,85,Libur Akademik,Sepi,367,21,388
+2023-08-15,Selasa,85,Libur Akademik,Sepi,371,21,392
+2023-08-16,Rabu,85,Libur Akademik,Sepi,378,21,399
+2023-08-17,Kamis,85,Libur Akademik,Sepi,378,21,399
+2023-08-18,Jumat,85,Libur Akademik,Sepi,371,20,391
+2023-08-19,Sabtu,85,Libur,Sepi,315,17,332
+2023-08-20,Minggu,85,Libur,Sepi,315,17,332
+2023-08-21,Senin,86,Libur Akademik,Sepi,372,21,393
+2023-08-22,Selasa,86,Libur Akademik,Sepi,378,21,399
+2023-08-23,Rabu,86,Libur Akademik,Sepi,386,21,407
+2023-08-24,Kamis,86,Libur Akademik,Sepi,383,21,404
+2023-08-25,Jumat,86,Libur Akademik,Sepi,374,21,395
+2023-08-26,Sabtu,86,Libur,Sepi,325,17,342
+2023-08-27,Minggu,86,Libur,Sepi,315,17,332
+2023-08-28,Senin,87,Libur Akademik,Sepi,376,22,398
+2023-08-29,Selasa,87,Libur Akademik,Sepi,379,22,401
+2023-08-30,Rabu,87,Libur Akademik,Sepi,383,22,405
+2023-08-31,Kamis,87,Libur Akademik,Sepi,384,21,405
+2023-09-01,Jumat,87,Perkuliahan,Sepi,1853,103,1956
+2023-09-02,Sabtu,87,Libur,Sepi,321,18,339
+2023-09-03,Minggu,87,Libur,Sepi,315,17,332
+2023-09-04,Senin,88,Perkuliahan,Sepi,1843,102,1945
+2023-09-05,Selasa,88,Perkuliahan,Sepi,1836,102,1938
+2023-09-06,Rabu,88,Perkuliahan,Sepi,1853,102,1955
+2023-09-07,Kamis,88,Perkuliahan,Sepi,1833,102,1935
+2023-09-08,Jumat,88,Perkuliahan,Sepi,1827,101,1928
+2023-09-09,Sabtu,88,Libur,Sepi,321,17,338
+2023-09-10,Minggu,88,Libur,Sepi,315,17,332
+2023-09-11,Senin,89,Perkuliahan,Sepi,1820,101,1921
+2023-09-12,Selasa,89,Perkuliahan,Sepi,1828,101,1929
+2023-09-13,Rabu,89,Perkuliahan,Sepi,1838,102,1940
+2023-09-14,Kamis,89,Perkuliahan,Sepi,1831,101,1932
+2023-09-15,Jumat,89,Perkuliahan,Sepi,1810,100,1910
+2023-09-16,Sabtu,89,Libur,Sepi,315,17,332
+2023-09-17,Minggu,89,Libur,Sepi,315,17,332
+2023-09-18,Senin,90,Perkuliahan,Sepi,1823,101,1924
+2023-09-19,Selasa,90,Perkuliahan,Sepi,1826,102,1928
+2023-09-20,Rabu,90,Perkuliahan,Sepi,1835,101,1936
+2023-09-21,Kamis,90,Perkuliahan,Sepi,1833,101,1934
+2023-09-22,Jumat,90,Perkuliahan,Sepi,1821,101,1922
+2023-09-23,Sabtu,90,Libur,Sepi,318,17,335
+2023-09-24,Minggu,90,Libur,Sepi,315,17,332
+2023-09-25,Senin,91,Perkuliahan,Sepi,1831,102,1933
+2023-09-26,Selasa,91,Perkuliahan,Sepi,1840,103,1943
+2023-09-27,Rabu,91,Perkuliahan,Sepi,1851,104,1955
+2023-09-28,Kamis,91,Perkuliahan,Sepi,1851,102,1953
+2023-09-29,Jumat,91,Perkuliahan,Sepi,1843,103,1946
+2023-09-30,Sabtu,91,Libur,Sepi,321,17,338
+2023-10-01,Minggu,91,Libur,Sepi,315,17,332
+2023-10-02,Senin,92,Perkuliahan,Sepi,1841,103,1944
+2023-10-03,Selasa,92,Perkuliahan,Sepi,1848,103,1951
+2023-10-04,Rabu,92,Perkuliahan,Sepi,1844,103,1947
+2023-10-05,Kamis,92,Perkuliahan,Sepi,1854,102,1956
+2023-10-06,Jumat,92,Perkuliahan,Sepi,1830,101,1931
+2023-10-07,Sabtu,92,Libur,Sepi,317,17,334
+2023-10-08,Minggu,92,Libur,Sepi,315,17,332
+2023-10-09,Senin,93,Perkuliahan,Sepi,1814,102,1916
+2023-10-10,Selasa,93,Perkuliahan,Sepi,1825,102,1927
+2023-10-11,Rabu,93,Perkuliahan,Sepi,1825,102,1927
+2023-10-12,Kamis,93,Perkuliahan,Sepi,1825,102,1927
+2023-10-13,Jumat,93,Perkuliahan,Sepi,1827,102,1929
+2023-10-14,Sabtu,93,Libur,Sepi,315,17,332
+2023-10-15,Minggu,93,Libur,Sepi,315,17,332
+2023-10-16,Senin,94,Perkuliahan,Sepi,1823,101,1924
+2023-10-17,Selasa,94,Perkuliahan,Sepi,1817,102,1919
+2023-10-18,Rabu,94,Perkuliahan,Sepi,1819,102,1921
+2023-10-19,Kamis,94,Perkuliahan,Sepi,1833,102,1935
+2023-10-20,Jumat,94,Perkuliahan,Sepi,1831,101,1932
+2023-10-21,Sabtu,94,Libur,Sepi,319,17,336
+2023-10-22,Minggu,94,Libur,Sepi,315,17,332
+2023-10-23,Senin,95,Perkuliahan,Sepi,1835,103,1938
+2023-10-24,Selasa,95,Perkuliahan,Sepi,1837,102,1939
+2023-10-25,Rabu,95,Perkuliahan,Sepi,1854,103,1957
+2023-10-26,Kamis,95,Perkuliahan,Sepi,1841,103,1944
+2023-10-27,Jumat,95,Perkuliahan,Sepi,1847,102,1949
+2023-10-28,Sabtu,95,Libur,Sepi,325,18,343
+2023-10-29,Minggu,95,Libur,Sepi,315,17,332
+2023-10-30,Senin,96,Perkuliahan,Sepi,1847,103,1950
+2023-10-31,Selasa,96,Perkuliahan,Sepi,1846,103,1949
+2023-11-01,Rabu,96,Perkuliahan,Sepi,1865,104,1969
+2023-11-02,Kamis,96,Perkuliahan,Sepi,1853,103,1956
+2023-11-03,Jumat,96,Perkuliahan,Sepi,1839,103,1942
+2023-11-04,Sabtu,96,Libur,Sepi,321,18,339
+2023-11-05,Minggu,96,Libur,Sepi,315,17,332
+2023-11-06,Senin,97,Perkuliahan,Sepi,1835,103,1938
+2023-11-07,Selasa,97,Perkuliahan,Sepi,1851,102,1953
+2023-11-08,Rabu,97,Perkuliahan,Sepi,1845,102,1947
+2023-11-09,Kamis,97,Perkuliahan,Sepi,1849,103,1952
+2023-11-10,Jumat,97,Perkuliahan,Sepi,1840,101,1941
+2023-11-11,Sabtu,97,Libur,Sepi,320,17,337
+2023-11-12,Minggu,97,Libur,Sepi,315,17,332
+2023-11-13,Senin,98,Perkuliahan,Sepi,1817,102,1919
+2023-11-14,Selasa,98,Perkuliahan,Sepi,1825,102,1927
+2023-11-15,Rabu,98,Perkuliahan,Sepi,1833,101,1934
+2023-11-16,Kamis,98,Perkuliahan,Sepi,1825,103,1928
+2023-11-17,Jumat,98,Perkuliahan,Sepi,1828,101,1929
+2023-11-18,Sabtu,98,Libur,Sepi,316,17,333
+2023-11-19,Minggu,98,Libur,Sepi,315,17,332
+2023-11-20,Senin,99,Perkuliahan,Sepi,1834,102,1936
+2023-11-21,Selasa,99,Perkuliahan,Sepi,1845,103,1948
+2023-11-22,Rabu,99,Perkuliahan,Sepi,1855,103,1958
+2023-11-23,Kamis,99,Perkuliahan,Sepi,1841,103,1944
+2023-11-24,Jumat,99,Perkuliahan,Sepi,1850,103,1953
+2023-11-25,Sabtu,99,Libur,Sepi,327,18,345
+2023-11-26,Minggu,99,Libur,Sepi,321,17,338
+2023-11-27,Senin,100,Perkuliahan,Sepi,1846,103,1949
+2023-11-28,Selasa,100,Perkuliahan,Sepi,1860,105,1965
+2023-11-29,Rabu,100,Perkuliahan,Sepi,1876,105,1981
+2023-11-30,Kamis,100,Perkuliahan,Sepi,1859,103,1962
+2023-12-01,Jumat,100,Ujian,Sangat Ramai,4071,225,4296
+2023-12-02,Sabtu,100,Libur,Sepi,327,18,345
+2023-12-03,Minggu,100,Libur,Sepi,322,17,339
+2023-12-04,Senin,101,Ujian,Sangat Ramai,4055,224,4279
+2023-12-05,Selasa,101,Ujian,Sangat Ramai,4054,225,4279
+2023-12-06,Rabu,101,Ujian,Sangat Ramai,4071,224,4295
+2023-12-07,Kamis,101,Ujian,Sangat Ramai,4056,223,4279
+2023-12-08,Jumat,101,Ujian,Sangat Ramai,4037,225,4262
+2023-12-09,Sabtu,101,Libur,Sepi,326,17,343
+2023-12-10,Minggu,101,Libur,Sepi,315,17,332
+2023-12-11,Senin,102,Ujian,Sangat Ramai,4032,223,4255
+2023-12-12,Selasa,102,Ujian,Sangat Ramai,4031,223,4254
+2023-12-13,Rabu,102,Ujian,Sangat Ramai,4055,223,4278
+2023-12-14,Kamis,102,Ujian,Sangat Ramai,4024,223,4247
+2023-12-15,Jumat,102,Ujian,Sangat Ramai,4045,224,4269
+2023-12-16,Sabtu,102,Libur,Sepi,317,18,335
+2023-12-17,Minggu,102,Libur,Sepi,315,17,332
+2023-12-18,Senin,103,Ujian,Sangat Ramai,4048,223,4271
+2023-12-19,Selasa,103,Ujian,Sangat Ramai,4048,224,4272
+2023-12-20,Rabu,103,Ujian,Sangat Ramai,4049,225,4274
+2023-12-21,Kamis,103,Ujian,Sangat Ramai,4071,224,4295
+2023-12-22,Jumat,103,Ujian,Sangat Ramai,4063,225,4288
+2023-12-23,Sabtu,103,Libur,Sepi,326,18,344
+2023-12-24,Minggu,103,Libur,Sepi,324,18,342
+2023-12-25,Senin,104,Ujian,Sangat Ramai,4055,226,4281
+2023-12-26,Selasa,104,Ujian,Sangat Ramai,4083,227,4310
+2023-12-27,Rabu,104,Ujian,Sangat Ramai,4082,226,4308
+2023-12-28,Kamis,104,Ujian,Sangat Ramai,4100,227,4327
+2023-12-29,Jumat,104,Ujian,Sangat Ramai,4076,225,4301
+2023-12-30,Sabtu,104,Libur,Sepi,333,19,352
+2023-12-31,Minggu,104,Libur,Sepi,324,18,342
+2024-01-03,Rabu,105,Libur Akademik,Sepi,399,23,422
+2024-01-04,Kamis,105,Libur Akademik,Sepi,393,23,416
+2024-01-05,Jumat,105,Libur Akademik,Sepi,381,22,403
+2024-01-06,Sabtu,105,Libur,Sepi,329,18,347
+2024-01-07,Minggu,105,Libur,Sepi,322,18,340
+2024-01-08,Senin,106,Libur Akademik,Sepi,381,22,403
+2024-01-09,Selasa,106,Libur Akademik,Sepi,390,22,412
+2024-01-10,Rabu,106,Libur Akademik,Sepi,394,22,416
+2024-01-11,Kamis,106,Libur Akademik,Sepi,387,22,409
+2024-01-12,Jumat,106,Libur Akademik,Sepi,380,22,402
+2024-01-13,Sabtu,106,Libur,Sepi,324,18,342
+2024-01-14,Minggu,106,Libur,Sepi,320,17,337
+2024-01-15,Senin,107,Libur Akademik,Sepi,374,22,396
+2024-01-16,Selasa,107,Libur Akademik,Sepi,385,22,407
+2024-01-17,Rabu,107,Libur Akademik,Sepi,390,22,412
+2024-01-18,Kamis,107,Libur Akademik,Sepi,385,22,407
+2024-01-19,Jumat,107,Libur Akademik,Sepi,380,22,402
+2024-01-20,Sabtu,107,Libur,Sepi,330,18,348
+2024-01-21,Minggu,107,Libur,Sepi,326,18,344
+2024-01-22,Senin,108,Libur Akademik,Sepi,380,22,402
+2024-01-23,Selasa,108,Libur Akademik,Sepi,392,23,415
+2024-01-24,Rabu,108,Libur Akademik,Sepi,398,23,421
+2024-01-25,Kamis,108,Libur Akademik,Sepi,393,23,416
+2024-01-26,Jumat,108,Libur Akademik,Sepi,385,23,408
+2024-01-27,Sabtu,108,Libur,Sepi,337,19,356
+2024-01-28,Minggu,108,Libur,Sepi,333,18,351
+2024-01-29,Senin,109,Libur Akademik,Sepi,390,23,413
+2024-01-30,Selasa,109,Libur Akademik,Sepi,401,23,424
+2024-01-31,Rabu,109,Libur Akademik,Sepi,400,23,423
+2024-02-01,Kamis,109,Libur Akademik,Sepi,397,23,420
+2024-02-02,Jumat,109,Libur Akademik,Sepi,392,23,415
+2024-02-03,Sabtu,109,Libur,Sepi,341,19,360
+2024-02-04,Minggu,109,Libur,Sepi,334,18,352
+2024-02-05,Senin,110,Libur Akademik,Sepi,386,22,408
+2024-02-06,Selasa,110,Libur Akademik,Sepi,398,23,421
+2024-02-07,Rabu,110,Libur Akademik,Sepi,397,23,420
+2024-02-08,Kamis,110,Libur Akademik,Sepi,398,23,421
+2024-02-09,Jumat,110,Libur Akademik,Sepi,385,22,407
+2024-02-10,Sabtu,110,Libur,Sepi,336,19,355
+2024-02-11,Minggu,110,Libur,Sepi,325,18,343
+2024-02-12,Senin,111,Libur Akademik,Sepi,381,22,403
+2024-02-13,Selasa,111,Libur Akademik,Sepi,386,23,409
+2024-02-14,Rabu,111,Libur Akademik,Sepi,393,22,415
+2024-02-15,Kamis,111,Libur Akademik,Sepi,391,22,413
+2024-02-16,Jumat,111,Libur Akademik,Sepi,380,22,402
+2024-02-17,Sabtu,111,Libur,Sepi,333,19,352
+2024-02-18,Minggu,111,Libur,Sepi,326,18,344
+2024-02-19,Senin,112,Libur Akademik,Sepi,381,22,403
+2024-02-20,Selasa,112,Libur Akademik,Sepi,391,23,414
+2024-02-21,Rabu,112,Libur Akademik,Sepi,394,23,417
+2024-02-22,Kamis,112,Libur Akademik,Sepi,399,23,422
+2024-02-23,Jumat,112,Libur Akademik,Sepi,392,22,414
+2024-02-24,Sabtu,112,Libur,Sepi,342,19,361
+2024-02-25,Minggu,112,Libur,Sepi,331,19,350
+2024-02-26,Senin,113,Libur Akademik,Sepi,391,23,414
+2024-02-27,Selasa,113,Libur Akademik,Sepi,396,23,419
+2024-02-28,Rabu,113,Libur Akademik,Sepi,405,23,428
+2024-02-29,Kamis,113,Libur Akademik,Sepi,402,23,425
+2024-03-01,Jumat,113,Perkuliahan,Ramai,1913,107,2020
+2024-03-02,Sabtu,113,Libur,Sepi,341,19,360
+2024-03-03,Minggu,113,Libur,Sepi,334,19,353
+2024-03-04,Senin,114,Perkuliahan,Ramai,1906,108,2014
+2024-03-05,Selasa,114,Perkuliahan,Ramai,1919,107,2026
+2024-03-06,Rabu,114,Perkuliahan,Ramai,1921,108,2029
+2024-03-07,Kamis,114,Perkuliahan,Ramai,1907,107,2014
+2024-03-08,Jumat,114,Perkuliahan,Ramai,1907,105,2012
+2024-03-09,Sabtu,114,Libur,Sepi,339,19,358
+2024-03-10,Minggu,114,Libur,Sepi,324,18,342
+2024-03-11,Senin,115,Perkuliahan,Sepi,1880,105,1985
+2024-03-12,Selasa,115,Perkuliahan,Ramai,1897,106,2003
+2024-03-13,Rabu,115,Perkuliahan,Ramai,1896,105,2001
+2024-03-14,Kamis,115,Perkuliahan,Ramai,1897,105,2002
+2024-03-15,Jumat,115,Perkuliahan,Sepi,1894,105,1999
+2024-03-16,Sabtu,115,Libur,Sepi,337,18,355
+2024-03-17,Minggu,115,Libur,Sepi,324,18,342
+2024-03-18,Senin,116,Perkuliahan,Sepi,1879,106,1985
+2024-03-19,Selasa,116,Perkuliahan,Sepi,1890,106,1996
+2024-03-20,Rabu,116,Perkuliahan,Ramai,1902,106,2008
+2024-03-21,Kamis,116,Perkuliahan,Ramai,1914,107,2021
+2024-03-22,Jumat,116,Perkuliahan,Sepi,1891,106,1997
+2024-03-23,Sabtu,116,Libur,Sepi,339,19,358
+2024-03-24,Minggu,116,Libur,Sepi,330,19,349
+2024-03-25,Senin,117,Perkuliahan,Ramai,1909,107,2016
+2024-03-26,Selasa,117,Perkuliahan,Ramai,1924,108,2032
+2024-03-27,Rabu,117,Perkuliahan,Ramai,1927,107,2034
+2024-03-28,Kamis,117,Perkuliahan,Ramai,1918,107,2025
+2024-03-29,Jumat,117,Perkuliahan,Ramai,1918,107,2025
+2024-03-30,Sabtu,117,Libur,Sepi,341,19,360
+2024-03-31,Minggu,117,Libur,Sepi,335,19,354
+2024-04-01,Senin,118,Perkuliahan,Ramai,1910,107,2017
+2024-04-02,Selasa,118,Perkuliahan,Ramai,1920,108,2028
+2024-04-03,Rabu,118,Perkuliahan,Ramai,1931,107,2038
+2024-04-04,Kamis,118,Perkuliahan,Ramai,1914,107,2021
+2024-04-05,Jumat,118,Perkuliahan,Ramai,1917,106,2023
+2024-04-06,Sabtu,118,Libur,Sepi,344,19,363
+2024-04-07,Minggu,118,Libur,Sepi,332,19,351
+2024-04-08,Senin,119,Perkuliahan,Ramai,1897,106,2003
+2024-04-09,Selasa,119,Perkuliahan,Ramai,1895,107,2002
+2024-04-10,Rabu,119,Perkuliahan,Ramai,1897,106,2003
+2024-04-11,Kamis,119,Perkuliahan,Ramai,1903,105,2008
+2024-04-12,Jumat,119,Perkuliahan,Ramai,1895,106,2001
+2024-04-13,Sabtu,119,Libur,Sepi,338,18,356
+2024-04-14,Minggu,119,Libur,Sepi,327,18,345
+2024-04-15,Senin,120,Perkuliahan,Sepi,1881,105,1986
+2024-04-16,Selasa,120,Perkuliahan,Sepi,1889,106,1995
+2024-04-17,Rabu,120,Perkuliahan,Sepi,1889,107,1996
+2024-04-18,Kamis,120,Perkuliahan,Ramai,1900,106,2006
+2024-04-19,Jumat,120,Perkuliahan,Sepi,1891,106,1997
+2024-04-20,Sabtu,120,Libur,Sepi,338,19,357
+2024-04-21,Minggu,120,Libur,Sepi,332,18,350
+2024-04-22,Senin,121,Perkuliahan,Sepi,1889,106,1995
+2024-04-23,Selasa,121,Perkuliahan,Ramai,1901,107,2008
+2024-04-24,Rabu,121,Perkuliahan,Ramai,1908,107,2015
+2024-04-25,Kamis,121,Perkuliahan,Ramai,1913,108,2021
+2024-04-26,Jumat,121,Perkuliahan,Ramai,1913,107,2020
+2024-04-27,Sabtu,121,Libur,Sepi,341,19,360
+2024-04-28,Minggu,121,Libur,Sepi,337,19,356
+2024-04-29,Senin,122,Perkuliahan,Ramai,1915,108,2023
+2024-04-30,Selasa,122,Perkuliahan,Ramai,1927,108,2035
+2024-05-01,Rabu,122,Perkuliahan,Ramai,1924,108,2032
+2024-05-02,Kamis,122,Perkuliahan,Ramai,1913,107,2020
+2024-05-03,Jumat,122,Perkuliahan,Ramai,1918,107,2025
+2024-05-04,Sabtu,122,Libur,Sepi,344,19,363
+2024-05-05,Minggu,122,Libur,Sepi,333,19,352
+2024-05-06,Senin,123,Perkuliahan,Ramai,1900,107,2007
+2024-05-07,Selasa,123,Perkuliahan,Ramai,1906,106,2012
+2024-05-08,Rabu,123,Perkuliahan,Ramai,1910,106,2016
+2024-05-09,Kamis,123,Perkuliahan,Ramai,1896,106,2002
+2024-05-10,Jumat,123,Perkuliahan,Ramai,1895,106,2001
+2024-05-11,Sabtu,123,Libur,Sepi,337,18,355
+2024-05-12,Minggu,123,Libur,Sepi,327,18,345
+2024-05-13,Senin,124,Perkuliahan,Sepi,1882,106,1988
+2024-05-14,Selasa,124,Perkuliahan,Sepi,1889,105,1994
+2024-05-15,Rabu,124,Perkuliahan,Ramai,1896,105,2001
+2024-05-16,Kamis,124,Perkuliahan,Sepi,1886,105,1991
+2024-05-17,Jumat,124,Perkuliahan,Sepi,1888,105,1993
+2024-05-18,Sabtu,124,Libur,Sepi,330,18,348
+2024-05-19,Minggu,124,Libur,Sepi,325,18,343
+2024-05-20,Senin,125,Perkuliahan,Sepi,1878,104,1982
+2024-05-21,Selasa,125,Perkuliahan,Sepi,1894,105,1999
+2024-05-22,Rabu,125,Perkuliahan,Sepi,1888,107,1995
+2024-05-23,Kamis,125,Perkuliahan,Sepi,1889,106,1995
+2024-05-24,Jumat,125,Perkuliahan,Ramai,1901,105,2006
+2024-05-25,Sabtu,125,Libur,Sepi,334,19,353
+2024-05-26,Minggu,125,Libur,Sepi,330,18,348
+2024-05-27,Senin,126,Perkuliahan,Ramai,1895,106,2001
+2024-05-28,Selasa,126,Perkuliahan,Ramai,1900,106,2006
+2024-05-29,Rabu,126,Perkuliahan,Ramai,1899,107,2006
+2024-05-30,Kamis,126,Perkuliahan,Ramai,1914,106,2020
+2024-05-31,Jumat,126,Perkuliahan,Sepi,1893,105,1998
+2024-06-01,Sabtu,126,Libur,Sepi,340,19,359
+2024-06-02,Minggu,126,Libur,Sepi,329,18,347
+2024-06-03,Senin,127,Ujian,Sangat Ramai,4104,227,4331
+2024-06-04,Selasa,127,Ujian,Sangat Ramai,4127,228,4355
+2024-06-05,Rabu,127,Ujian,Sangat Ramai,4103,229,4332
+2024-06-06,Kamis,127,Ujian,Sangat Ramai,4119,227,4346
+2024-06-07,Jumat,127,Ujian,Sangat Ramai,4091,226,4317
+2024-06-08,Sabtu,127,Libur,Sepi,332,18,350
+2024-06-09,Minggu,127,Libur,Sepi,321,18,339
+2024-06-10,Senin,128,Ujian,Sangat Ramai,4067,227,4294
+2024-06-11,Selasa,128,Ujian,Sangat Ramai,4067,227,4294
+2024-06-12,Rabu,128,Ujian,Sangat Ramai,4077,227,4304
+2024-06-13,Kamis,128,Ujian,Sangat Ramai,4083,227,4310
+2024-06-14,Jumat,128,Ujian,Sangat Ramai,4063,225,4288
+2024-06-15,Sabtu,128,Libur,Sepi,324,18,342
+2024-06-16,Minggu,128,Libur,Sepi,321,17,338
+2024-06-17,Senin,129,Ujian,Sangat Ramai,4048,226,4274
+2024-06-18,Selasa,129,Ujian,Sangat Ramai,4058,225,4283
+2024-06-19,Rabu,129,Ujian,Sangat Ramai,4067,226,4293
+2024-06-20,Kamis,129,Ujian,Sangat Ramai,4084,225,4309
+2024-06-21,Jumat,129,Ujian,Sangat Ramai,4085,225,4310
+2024-06-22,Sabtu,129,Libur,Sepi,327,18,345
+2024-06-23,Minggu,129,Libur,Sepi,321,18,339
+2024-06-24,Senin,130,Ujian,Sangat Ramai,4067,227,4294
+2024-06-25,Selasa,130,Ujian,Sangat Ramai,4098,225,4323
+2024-06-26,Rabu,130,Ujian,Sangat Ramai,4086,226,4312
+2024-06-27,Kamis,130,Ujian,Sangat Ramai,4086,226,4312
+2024-06-28,Jumat,130,Ujian,Sangat Ramai,4085,226,4311
+2024-06-29,Sabtu,130,Libur,Sepi,332,18,350
+2024-06-30,Minggu,130,Libur,Sepi,324,18,342
+2024-07-01,Senin,131,Ujian,Sangat Ramai,4081,226,4307
+2024-07-02,Selasa,131,Ujian,Sangat Ramai,4107,227,4334
+2024-07-03,Rabu,131,Ujian,Sangat Ramai,4102,228,4330
+2024-07-04,Kamis,131,Ujian,Sangat Ramai,4099,225,4324
+2024-07-05,Jumat,131,Ujian,Sangat Ramai,4077,227,4304
+2024-07-06,Sabtu,131,Libur,Sepi,328,18,346
+2024-07-07,Minggu,131,Libur,Sepi,321,17,338
+2024-07-08,Senin,132,Ujian,Sangat Ramai,4073,224,4297
+2024-07-09,Selasa,132,Ujian,Sangat Ramai,4074,224,4298
+2024-07-10,Rabu,132,Ujian,Sangat Ramai,4054,224,4278
+2024-07-11,Kamis,132,Ujian,Sangat Ramai,4043,225,4268
+2024-07-12,Jumat,132,Ujian,Sangat Ramai,4051,224,4275
+2024-07-13,Sabtu,132,Libur,Sepi,323,18,341
+2024-07-14,Minggu,132,Libur,Sepi,315,17,332
+2024-07-15,Senin,133,Ujian,Sangat Ramai,4036,224,4260
+2024-07-16,Selasa,133,Ujian,Sangat Ramai,4035,225,4260
+2024-07-17,Rabu,133,Ujian,Sangat Ramai,4033,224,4257
+2024-07-18,Kamis,133,Ujian,Sangat Ramai,4058,223,4281
+2024-07-19,Jumat,133,Ujian,Sangat Ramai,4046,224,4270
+2024-07-20,Sabtu,133,Libur,Sepi,325,17,342
+2024-07-21,Minggu,133,Libur,Sepi,315,17,332
+2024-07-22,Senin,134,Ujian,Sangat Ramai,4043,223,4266
+2024-07-23,Selasa,134,Ujian,Sangat Ramai,4047,226,4273
+2024-07-24,Rabu,134,Ujian,Sangat Ramai,4056,224,4280
+2024-07-25,Kamis,134,Ujian,Sangat Ramai,4055,225,4280
+2024-07-26,Jumat,134,Ujian,Sangat Ramai,4054,226,4280
+2024-07-27,Sabtu,134,Libur,Sepi,327,18,345
+2024-07-28,Minggu,134,Libur,Sepi,323,18,341
+2024-07-29,Senin,135,Ujian,Sangat Ramai,4051,225,4276
+2024-07-30,Selasa,135,Ujian,Sangat Ramai,4058,227,4285
+2024-07-31,Rabu,135,Ujian,Sangat Ramai,4071,226,4297
+2024-08-01,Kamis,135,Libur Akademik,Sepi,390,22,412
+2024-08-02,Jumat,135,Libur Akademik,Sepi,383,22,405
+2024-08-03,Sabtu,135,Libur,Sepi,327,18,345
+2024-08-04,Minggu,135,Libur,Sepi,319,17,336
+2024-08-05,Senin,136,Libur Akademik,Sepi,377,22,399
+2024-08-06,Selasa,136,Libur Akademik,Sepi,383,22,405
+2024-08-07,Rabu,136,Libur Akademik,Sepi,389,22,411
+2024-08-08,Kamis,136,Libur Akademik,Sepi,385,22,407
+2024-08-09,Jumat,136,Libur Akademik,Sepi,376,21,397
+2024-08-10,Sabtu,136,Libur,Sepi,319,17,336
+2024-08-11,Minggu,136,Libur,Sepi,315,17,332
+2024-08-12,Senin,137,Libur Akademik,Sepi,370,21,391
+2024-08-13,Selasa,137,Libur Akademik,Sepi,376,21,397
+2024-08-14,Rabu,137,Libur Akademik,Sepi,380,22,402
+2024-08-15,Kamis,137,Libur Akademik,Sepi,374,21,395
+2024-08-16,Jumat,137,Libur Akademik,Sepi,369,21,390
+2024-08-17,Sabtu,137,Libur,Sepi,319,17,336
+2024-08-18,Minggu,137,Libur,Sepi,315,17,332
+2024-08-19,Senin,138,Libur Akademik,Sepi,366,20,386
+2024-08-20,Selasa,138,Libur Akademik,Sepi,377,21,398
+2024-08-21,Rabu,138,Libur Akademik,Sepi,385,21,406
+2024-08-22,Kamis,138,Libur Akademik,Sepi,381,21,402
+2024-08-23,Jumat,138,Libur Akademik,Sepi,377,21,398
+2024-08-24,Sabtu,138,Libur,Sepi,324,17,341
+2024-08-25,Minggu,138,Libur,Sepi,315,17,332
+2024-08-26,Senin,139,Libur Akademik,Sepi,376,21,397
+2024-08-27,Selasa,139,Libur Akademik,Sepi,379,21,400
+2024-08-28,Rabu,139,Libur Akademik,Sepi,389,22,411
+2024-08-29,Kamis,139,Libur Akademik,Sepi,382,22,404
+2024-08-30,Jumat,139,Libur Akademik,Sepi,374,21,395
+2024-08-31,Sabtu,139,Libur,Sepi,325,17,342
+2024-09-01,Minggu,139,Libur,Sepi,321,18,339
+2024-09-02,Senin,140,Perkuliahan,Sepi,1858,103,1961
+2024-09-03,Selasa,140,Perkuliahan,Sepi,1850,103,1953
+2024-09-04,Rabu,140,Perkuliahan,Sepi,1858,103,1961
+2024-09-05,Kamis,140,Perkuliahan,Sepi,1841,102,1943
+2024-09-06,Jumat,140,Perkuliahan,Sepi,1846,101,1947
+2024-09-07,Sabtu,140,Libur,Sepi,321,17,338
+2024-09-08,Minggu,140,Libur,Sepi,315,17,332
+2024-09-09,Senin,141,Perkuliahan,Sepi,1840,101,1941
+2024-09-10,Selasa,141,Perkuliahan,Sepi,1830,103,1933
+2024-09-11,Rabu,141,Perkuliahan,Sepi,1835,102,1937
+2024-09-12,Kamis,141,Perkuliahan,Sepi,1833,101,1934
+2024-09-13,Jumat,141,Perkuliahan,Sepi,1831,101,1932
+2024-09-14,Sabtu,141,Libur,Sepi,315,17,332
+2024-09-15,Minggu,141,Libur,Sepi,315,17,332
+2024-09-16,Senin,142,Perkuliahan,Sepi,1809,102,1911
+2024-09-17,Selasa,142,Perkuliahan,Sepi,1819,101,1920
+2024-09-18,Rabu,142,Perkuliahan,Sepi,1838,102,1940
+2024-09-19,Kamis,142,Perkuliahan,Sepi,1831,102,1933
+2024-09-20,Jumat,142,Perkuliahan,Sepi,1828,101,1929
+2024-09-21,Sabtu,142,Libur,Sepi,319,17,336
+2024-09-22,Minggu,142,Libur,Sepi,315,17,332
+2024-09-23,Senin,143,Perkuliahan,Sepi,1822,102,1924
+2024-09-24,Selasa,143,Perkuliahan,Sepi,1840,102,1942
+2024-09-25,Rabu,143,Perkuliahan,Sepi,1846,102,1948
+2024-09-26,Kamis,143,Perkuliahan,Sepi,1845,103,1948
+2024-09-27,Jumat,143,Perkuliahan,Sepi,1844,103,1947
+2024-09-28,Sabtu,143,Libur,Sepi,322,18,340
+2024-09-29,Minggu,143,Libur,Sepi,316,17,333
+2024-09-30,Senin,144,Perkuliahan,Sepi,1847,103,1950
+2024-10-01,Selasa,144,Perkuliahan,Sepi,1852,102,1954
+2024-10-02,Rabu,144,Perkuliahan,Sepi,1856,104,1960
+2024-10-03,Kamis,144,Perkuliahan,Sepi,1853,103,1956
+2024-10-04,Jumat,144,Perkuliahan,Sepi,1837,102,1939
+2024-10-05,Sabtu,144,Libur,Sepi,318,17,335
+2024-10-06,Minggu,144,Libur,Sepi,315,17,332
+2024-10-07,Senin,145,Perkuliahan,Sepi,1839,103,1942
+2024-10-08,Selasa,145,Perkuliahan,Sepi,1842,103,1945
+2024-10-09,Rabu,145,Perkuliahan,Sepi,1829,103,1932
+2024-10-10,Kamis,145,Perkuliahan,Sepi,1830,102,1932
+2024-10-11,Jumat,145,Perkuliahan,Sepi,1818,102,1920
+2024-10-12,Sabtu,145,Libur,Sepi,317,17,334
+2024-10-13,Minggu,145,Libur,Sepi,315,17,332
+2024-10-14,Senin,146,Perkuliahan,Sepi,1824,101,1925
+2024-10-15,Selasa,146,Perkuliahan,Sepi,1829,101,1930
+2024-10-16,Rabu,146,Perkuliahan,Sepi,1838,101,1939
+2024-10-17,Kamis,146,Perkuliahan,Sepi,1823,102,1925
+2024-10-18,Jumat,146,Perkuliahan,Sepi,1813,101,1914
+2024-10-19,Sabtu,146,Libur,Sepi,315,17,332
+2024-10-20,Minggu,146,Libur,Sepi,315,17,332
+2024-10-21,Senin,147,Perkuliahan,Sepi,1828,102,1930
+2024-10-22,Selasa,147,Perkuliahan,Sepi,1838,102,1940
+2024-10-23,Rabu,147,Perkuliahan,Sepi,1850,104,1954
+2024-10-24,Kamis,147,Perkuliahan,Sepi,1842,102,1944
+2024-10-25,Jumat,147,Perkuliahan,Sepi,1847,102,1949
+2024-10-26,Sabtu,147,Libur,Sepi,321,18,339
+2024-10-27,Minggu,147,Libur,Sepi,315,17,332
+2024-10-28,Senin,148,Perkuliahan,Sepi,1847,103,1950
+2024-10-29,Selasa,148,Perkuliahan,Sepi,1848,104,1952
+2024-10-30,Rabu,148,Perkuliahan,Sepi,1863,103,1966
+2024-10-31,Kamis,148,Perkuliahan,Sepi,1851,103,1954
+2024-11-01,Jumat,148,Perkuliahan,Sepi,1859,103,1962
+2024-11-02,Sabtu,148,Libur,Sepi,326,18,344
+2024-11-03,Minggu,148,Libur,Sepi,320,17,337
+2024-11-04,Senin,149,Perkuliahan,Sepi,1857,104,1961
+2024-11-05,Selasa,149,Perkuliahan,Sepi,1862,102,1964
+2024-11-06,Rabu,149,Perkuliahan,Sepi,1850,104,1954
+2024-11-07,Kamis,149,Perkuliahan,Sepi,1856,102,1958
+2024-11-08,Jumat,149,Perkuliahan,Sepi,1839,102,1941
+2024-11-09,Sabtu,149,Libur,Sepi,320,17,337
+2024-11-10,Minggu,149,Libur,Sepi,315,17,332
+2024-11-11,Senin,150,Perkuliahan,Sepi,1841,102,1943
+2024-11-12,Selasa,150,Perkuliahan,Sepi,1848,101,1949
+2024-11-13,Rabu,150,Perkuliahan,Sepi,1833,103,1936
+2024-11-14,Kamis,150,Perkuliahan,Sepi,1830,102,1932
+2024-11-15,Jumat,150,Perkuliahan,Sepi,1826,101,1927
+2024-11-16,Sabtu,150,Libur,Sepi,318,17,335
+2024-11-17,Minggu,150,Libur,Sepi,315,17,332
+2024-11-18,Senin,151,Perkuliahan,Sepi,1830,103,1933
+2024-11-19,Selasa,151,Perkuliahan,Sepi,1831,103,1934
+2024-11-20,Rabu,151,Perkuliahan,Sepi,1850,103,1953
+2024-11-21,Kamis,151,Perkuliahan,Sepi,1851,103,1954
+2024-11-22,Jumat,151,Perkuliahan,Sepi,1848,103,1951
+2024-11-23,Sabtu,151,Libur,Sepi,326,17,343
+2024-11-24,Minggu,151,Libur,Sepi,319,17,336
+2024-11-25,Senin,152,Perkuliahan,Sepi,1856,103,1959
+2024-11-26,Selasa,152,Perkuliahan,Sepi,1871,103,1974
+2024-11-27,Rabu,152,Perkuliahan,Sepi,1862,104,1966
+2024-11-28,Kamis,152,Perkuliahan,Sepi,1865,105,1970
+2024-11-29,Jumat,152,Perkuliahan,Sepi,1869,104,1973
+2024-11-30,Sabtu,152,Libur,Sepi,332,18,350
+2024-12-01,Minggu,152,Libur,Sepi,324,17,341
+2024-12-02,Senin,153,Ujian,Sangat Ramai,4059,226,4285
+2024-12-03,Selasa,153,Ujian,Sangat Ramai,4080,225,4305
+2024-12-04,Rabu,153,Ujian,Sangat Ramai,4072,225,4297
+2024-12-05,Kamis,153,Ujian,Sangat Ramai,4061,225,4286
+2024-12-06,Jumat,153,Ujian,Sangat Ramai,4067,224,4291
+2024-12-07,Sabtu,153,Libur,Sepi,328,18,346
+2024-12-08,Minggu,153,Libur,Sepi,318,17,335
+2024-12-09,Senin,154,Ujian,Sangat Ramai,4045,223,4268
+2024-12-10,Selasa,154,Ujian,Sangat Ramai,4043,225,4268
+2024-12-11,Rabu,154,Ujian,Sangat Ramai,4050,224,4274
+2024-12-12,Kamis,154,Ujian,Sangat Ramai,4039,223,4262
+2024-12-13,Jumat,154,Ujian,Sangat Ramai,4050,223,4273
+2024-12-14,Sabtu,154,Libur,Sepi,323,17,340
+2024-12-15,Minggu,154,Libur,Sepi,315,17,332
+2024-12-16,Senin,155,Ujian,Sangat Ramai,4047,224,4271
+2024-12-17,Selasa,155,Ujian,Sangat Ramai,4048,224,4272
+2024-12-18,Rabu,155,Ujian,Sangat Ramai,4066,224,4290
+2024-12-19,Kamis,155,Ujian,Sangat Ramai,4056,224,4280
+2024-12-20,Jumat,155,Ujian,Sangat Ramai,4045,225,4270
+2024-12-21,Sabtu,155,Libur,Sepi,327,18,345
+2024-12-22,Minggu,155,Libur,Sepi,320,18,338
+2024-12-23,Senin,156,Ujian,Sangat Ramai,4057,225,4282
+2024-12-24,Selasa,156,Ujian,Sangat Ramai,4076,225,4301
+2024-12-25,Rabu,156,Ujian,Sangat Ramai,4073,227,4300
+2024-12-26,Kamis,156,Ujian,Sangat Ramai,4091,227,4318
+2024-12-27,Jumat,156,Ujian,Sangat Ramai,4078,226,4304
+2024-12-28,Sabtu,156,Libur,Sepi,335,19,354
+2024-12-29,Minggu,156,Libur,Sepi,325,18,343
+2024-12-30,Senin,157,Ujian,Sangat Ramai,4086,227,4313
+2024-12-31,Selasa,157,Ujian,Sangat Ramai,4091,228,4319
+2025-01-03,Jumat,157,Libur Akademik,Sepi,390,22,412
+2025-01-04,Sabtu,157,Libur,Sepi,334,19,353
+2025-01-05,Minggu,157,Libur,Sepi,322,18,340
+2025-01-06,Senin,158,Libur Akademik,Sepi,380,22,402
+2025-01-07,Selasa,158,Libur Akademik,Sepi,389,22,411
+2025-01-08,Rabu,158,Libur Akademik,Sepi,394,23,417
+2025-01-09,Kamis,158,Libur Akademik,Sepi,393,22,415
+2025-01-10,Jumat,158,Libur Akademik,Sepi,385,21,406
+2025-01-11,Sabtu,158,Libur,Sepi,328,18,346
+2025-01-12,Minggu,158,Libur,Sepi,321,17,338
+2025-01-13,Senin,159,Libur Akademik,Sepi,375,22,397
+2025-01-14,Selasa,159,Libur Akademik,Sepi,387,22,409
+2025-01-15,Rabu,159,Libur Akademik,Sepi,387,22,409
+2025-01-16,Kamis,159,Libur Akademik,Sepi,388,22,410
+2025-01-17,Jumat,159,Libur Akademik,Sepi,381,22,403
+2025-01-18,Sabtu,159,Libur,Sepi,326,18,344
+2025-01-19,Minggu,159,Libur,Sepi,321,18,339
+2025-01-20,Senin,160,Libur Akademik,Sepi,381,22,403
+2025-01-21,Selasa,160,Libur Akademik,Sepi,393,22,415
+2025-01-22,Rabu,160,Libur Akademik,Sepi,393,23,416
+2025-01-23,Kamis,160,Libur Akademik,Sepi,395,22,417
+2025-01-24,Jumat,160,Libur Akademik,Sepi,389,22,411
+2025-01-25,Sabtu,160,Libur,Sepi,334,19,353
+2025-01-26,Minggu,160,Libur,Sepi,326,19,345
+2025-01-27,Senin,161,Libur Akademik,Sepi,388,23,411
+2025-01-28,Selasa,161,Libur Akademik,Sepi,400,23,423
+2025-01-29,Rabu,161,Libur Akademik,Sepi,403,23,426
+2025-01-30,Kamis,161,Libur Akademik,Sepi,404,23,427
+2025-01-31,Jumat,161,Libur Akademik,Sepi,391,23,414
+2025-02-01,Sabtu,161,Libur,Sepi,338,19,357
+2025-02-02,Minggu,161,Libur,Sepi,333,19,352
+2025-02-03,Senin,162,Libur Akademik,Sepi,392,23,415
+2025-02-04,Selasa,162,Libur Akademik,Sepi,401,23,424
+2025-02-05,Rabu,162,Libur Akademik,Sepi,399,23,422
+2025-02-06,Kamis,162,Libur Akademik,Sepi,401,23,424
+2025-02-07,Jumat,162,Libur Akademik,Sepi,388,22,410
+2025-02-08,Sabtu,162,Libur,Sepi,339,19,358
+2025-02-09,Minggu,162,Libur,Sepi,326,18,344
+2025-02-10,Senin,163,Libur Akademik,Sepi,387,22,409
+2025-02-11,Selasa,163,Libur Akademik,Sepi,392,23,415
+2025-02-12,Rabu,163,Libur Akademik,Sepi,394,23,417
+2025-02-13,Kamis,163,Libur Akademik,Sepi,389,23,412
+2025-02-14,Jumat,163,Libur Akademik,Sepi,384,22,406
+2025-02-15,Sabtu,163,Libur,Sepi,332,18,350
+2025-02-16,Minggu,163,Libur,Sepi,321,18,339
+2025-02-17,Senin,164,Libur Akademik,Sepi,384,22,406
+2025-02-18,Selasa,164,Libur Akademik,Sepi,393,23,416
+2025-02-19,Rabu,164,Libur Akademik,Sepi,394,23,417
+2025-02-20,Kamis,164,Libur Akademik,Sepi,394,23,417
+2025-02-21,Jumat,164,Libur Akademik,Sepi,385,22,407
+2025-02-22,Sabtu,164,Libur,Sepi,340,19,359
+2025-02-23,Minggu,164,Libur,Sepi,333,18,351
+2025-02-24,Senin,165,Libur Akademik,Sepi,393,23,416
+2025-02-25,Selasa,165,Libur Akademik,Sepi,398,23,421
+2025-02-26,Rabu,165,Libur Akademik,Sepi,404,23,427
+2025-02-27,Kamis,165,Libur Akademik,Sepi,399,23,422
+2025-02-28,Jumat,165,Libur Akademik,Sepi,397,23,420
+2025-03-01,Sabtu,165,Libur,Sepi,341,20,361
+2025-03-02,Minggu,165,Libur,Sepi,334,19,353
+2025-03-03,Senin,166,Perkuliahan,Ramai,1914,107,2021
+2025-03-04,Selasa,166,Perkuliahan,Ramai,1916,108,2024
+2025-03-05,Rabu,166,Perkuliahan,Ramai,1926,107,2033
+2025-03-06,Kamis,166,Perkuliahan,Ramai,1922,107,2029
+2025-03-07,Jumat,166,Perkuliahan,Ramai,1902,107,2009
+2025-03-08,Sabtu,166,Libur,Sepi,342,19,361
+2025-03-09,Minggu,166,Libur,Sepi,332,18,350
+2025-03-10,Senin,167,Perkuliahan,Ramai,1897,107,2004
+2025-03-11,Selasa,167,Perkuliahan,Sepi,1891,106,1997
+2025-03-12,Rabu,167,Perkuliahan,Ramai,1904,106,2010
+2025-03-13,Kamis,167,Perkuliahan,Ramai,1897,105,2002
+2025-03-14,Jumat,167,Perkuliahan,Sepi,1892,105,1997
+2025-03-15,Sabtu,167,Libur,Sepi,332,19,351
+2025-03-16,Minggu,167,Libur,Sepi,330,18,348
+2025-03-17,Senin,168,Perkuliahan,Sepi,1880,105,1985
+2025-03-18,Selasa,168,Perkuliahan,Sepi,1890,106,1996
+2025-03-19,Rabu,168,Perkuliahan,Ramai,1897,106,2003
+2025-03-20,Kamis,168,Perkuliahan,Ramai,1903,106,2009
+2025-03-21,Jumat,168,Perkuliahan,Ramai,1909,107,2016
+2025-03-22,Sabtu,168,Libur,Sepi,335,19,354
+2025-03-23,Minggu,168,Libur,Sepi,332,19,351
+2025-03-24,Senin,169,Perkuliahan,Ramai,1917,107,2024
+2025-03-25,Selasa,169,Perkuliahan,Ramai,1920,108,2028
+2025-03-26,Rabu,169,Perkuliahan,Ramai,1931,109,2040
+2025-03-27,Kamis,169,Perkuliahan,Ramai,1928,107,2035
+2025-03-28,Jumat,169,Perkuliahan,Ramai,1913,107,2020
+2025-03-29,Sabtu,169,Libur,Sepi,347,20,367
+2025-03-30,Minggu,169,Libur,Sepi,334,19,353
+2025-03-31,Senin,170,Perkuliahan,Ramai,1919,108,2027
+2025-04-01,Selasa,170,Perkuliahan,Ramai,1921,107,2028
+2025-04-02,Rabu,170,Perkuliahan,Ramai,1927,108,2035
+2025-04-03,Kamis,170,Perkuliahan,Ramai,1932,107,2039
+2025-04-04,Jumat,170,Perkuliahan,Ramai,1909,107,2016
+2025-04-05,Sabtu,170,Libur,Sepi,345,19,364
+2025-04-06,Minggu,170,Libur,Sepi,337,18,355
+2025-04-07,Senin,171,Perkuliahan,Ramai,1910,107,2017
+2025-04-08,Selasa,171,Perkuliahan,Ramai,1908,107,2015
+2025-04-09,Rabu,171,Perkuliahan,Ramai,1902,107,2009
+2025-04-10,Kamis,171,Perkuliahan,Ramai,1899,106,2005
+2025-04-11,Jumat,171,Perkuliahan,Ramai,1898,105,2003
+2025-04-12,Sabtu,171,Libur,Sepi,336,19,355
+2025-04-13,Minggu,171,Libur,Sepi,331,18,349
+2025-04-14,Senin,172,Perkuliahan,Sepi,1886,105,1991
+2025-04-15,Selasa,172,Perkuliahan,Sepi,1893,106,1999
+2025-04-16,Rabu,172,Perkuliahan,Ramai,1896,106,2002
+2025-04-17,Kamis,172,Perkuliahan,Sepi,1890,106,1996
+2025-04-18,Jumat,172,Perkuliahan,Ramai,1895,106,2001
+2025-04-19,Sabtu,172,Libur,Sepi,333,19,352
+2025-04-20,Minggu,172,Libur,Sepi,331,18,349
+2025-04-21,Senin,173,Perkuliahan,Ramai,1907,107,2014
+2025-04-22,Selasa,173,Perkuliahan,Ramai,1900,106,2006
+2025-04-23,Rabu,173,Perkuliahan,Ramai,1908,107,2015
+2025-04-24,Kamis,173,Perkuliahan,Ramai,1909,107,2016
+2025-04-25,Jumat,173,Perkuliahan,Ramai,1908,107,2015
+2025-04-26,Sabtu,173,Libur,Sepi,339,19,358
+2025-04-27,Minggu,173,Libur,Sepi,334,19,353
+2025-04-28,Senin,174,Perkuliahan,Ramai,1906,107,2013
+2025-04-29,Selasa,174,Perkuliahan,Ramai,1926,108,2034
+2025-04-30,Rabu,174,Perkuliahan,Ramai,1934,108,2042
+2025-05-01,Kamis,174,Perkuliahan,Ramai,1925,108,2033
+2025-05-02,Jumat,174,Perkuliahan,Ramai,1908,107,2015
+2025-05-03,Sabtu,174,Libur,Sepi,343,20,363
+2025-05-04,Minggu,174,Libur,Sepi,337,19,356
+2025-05-05,Senin,175,Perkuliahan,Ramai,1907,107,2014
+2025-05-06,Selasa,175,Perkuliahan,Ramai,1912,107,2019
+2025-05-07,Rabu,175,Perkuliahan,Ramai,1914,107,2021
+2025-05-08,Kamis,175,Perkuliahan,Ramai,1911,105,2016
+2025-05-09,Jumat,175,Perkuliahan,Sepi,1891,105,1996
+2025-05-10,Sabtu,175,Libur,Sepi,338,19,357
+2025-05-11,Minggu,175,Libur,Sepi,330,18,348
+2025-05-12,Senin,176,Perkuliahan,Sepi,1877,105,1982
+2025-05-13,Selasa,176,Perkuliahan,Sepi,1893,106,1999
+2025-05-14,Rabu,176,Perkuliahan,Ramai,1896,105,2001
+2025-05-15,Kamis,176,Perkuliahan,Ramai,1898,105,2003
+2025-05-16,Jumat,176,Perkuliahan,Sepi,1882,105,1987
+2025-05-17,Sabtu,176,Libur,Sepi,330,18,348
+2025-05-18,Minggu,176,Libur,Sepi,323,18,341
+2025-05-19,Senin,177,Perkuliahan,Sepi,1881,106,1987
+2025-05-20,Selasa,177,Perkuliahan,Sepi,1890,105,1995
+2025-05-21,Rabu,177,Perkuliahan,Ramai,1901,105,2006
+2025-05-22,Kamis,177,Perkuliahan,Sepi,1889,107,1996
+2025-05-23,Jumat,177,Perkuliahan,Sepi,1884,106,1990
+2025-05-24,Sabtu,177,Libur,Sepi,333,19,352
+2025-05-25,Minggu,177,Libur,Sepi,327,18,345
+2025-05-26,Senin,178,Perkuliahan,Ramai,1897,107,2004
+2025-05-27,Selasa,178,Perkuliahan,Ramai,1907,107,2014
+2025-05-28,Rabu,178,Perkuliahan,Ramai,1908,107,2015
+2025-05-29,Kamis,178,Perkuliahan,Ramai,1901,107,2008
+2025-05-30,Jumat,178,Perkuliahan,Ramai,1910,106,2016
+2025-05-31,Sabtu,178,Libur,Sepi,339,19,358
+2025-06-01,Minggu,178,Libur,Sepi,333,19,352
+2025-06-02,Senin,179,Ujian,Sangat Ramai,4133,228,4361
+2025-06-03,Selasa,179,Ujian,Sangat Ramai,4118,228,4346
+2025-06-04,Rabu,179,Ujian,Sangat Ramai,4137,228,4365
+2025-06-05,Kamis,179,Ujian,Sangat Ramai,4107,229,4336
+2025-06-06,Jumat,179,Ujian,Sangat Ramai,4117,227,4344
+2025-06-07,Sabtu,179,Libur,Sepi,332,19,351
+2025-06-08,Minggu,179,Libur,Sepi,326,18,344
+2025-06-09,Senin,180,Ujian,Sangat Ramai,4085,227,4312
+2025-06-10,Selasa,180,Ujian,Sangat Ramai,4081,227,4308
+2025-06-11,Rabu,180,Ujian,Sangat Ramai,4076,227,4303
+2025-06-12,Kamis,180,Ujian,Sangat Ramai,4081,227,4308
+2025-06-13,Jumat,180,Ujian,Sangat Ramai,4081,226,4307
+2025-06-14,Sabtu,180,Libur,Sepi,328,18,346
+2025-06-15,Minggu,180,Libur,Sepi,317,17,334
+2025-06-16,Senin,181,Ujian,Sangat Ramai,4081,225,4306
+2025-06-17,Selasa,181,Ujian,Sangat Ramai,4062,226,4288
+2025-06-18,Rabu,181,Ujian,Sangat Ramai,4068,225,4293
+2025-06-19,Kamis,181,Ujian,Sangat Ramai,4071,227,4298
+2025-06-20,Jumat,181,Ujian,Sangat Ramai,4082,225,4307
+2025-06-21,Sabtu,181,Libur,Sepi,333,18,351
+2025-06-22,Minggu,181,Libur,Sepi,320,18,338
+2025-06-23,Senin,182,Ujian,Sangat Ramai,4099,226,4325
+2025-06-24,Selasa,182,Ujian,Sangat Ramai,4081,227,4308
+2025-06-25,Rabu,182,Ujian,Sangat Ramai,4108,226,4334
+2025-06-26,Kamis,182,Ujian,Sangat Ramai,4090,226,4316
+2025-06-27,Jumat,182,Ujian,Sangat Ramai,4084,226,4310
+2025-06-28,Sabtu,182,Libur,Sepi,332,19,351
+2025-06-29,Minggu,182,Libur,Sepi,325,18,343
+2025-06-30,Senin,183,Ujian,Sangat Ramai,4096,228,4324
+2025-07-01,Selasa,183,Ujian,Sangat Ramai,4095,227,4322
+2025-07-02,Rabu,183,Ujian,Sangat Ramai,4116,227,4343
+2025-07-03,Kamis,183,Ujian,Sangat Ramai,4106,228,4334
+2025-07-04,Jumat,183,Ujian,Sangat Ramai,4097,225,4322
+2025-07-05,Sabtu,183,Libur,Sepi,331,18,349
+2025-07-06,Minggu,183,Libur,Sepi,321,18,339
+2025-07-07,Senin,184,Ujian,Sangat Ramai,4060,225,4285
+2025-07-08,Selasa,184,Ujian,Sangat Ramai,4086,225,4311
+2025-07-09,Rabu,184,Ujian,Sangat Ramai,4084,225,4309
+2025-07-10,Kamis,184,Ujian,Sangat Ramai,4058,224,4282
+2025-07-11,Jumat,184,Ujian,Sangat Ramai,4041,225,4266
+2025-07-12,Sabtu,184,Libur,Sepi,325,18,343
+2025-07-13,Minggu,184,Libur,Sepi,317,17,334
+2025-07-14,Senin,185,Ujian,Sangat Ramai,4040,224,4264
+2025-07-15,Selasa,185,Ujian,Sangat Ramai,4050,225,4275
+2025-07-16,Rabu,185,Ujian,Sangat Ramai,4045,225,4270
+2025-07-17,Kamis,185,Ujian,Sangat Ramai,4037,224,4261
+2025-07-18,Jumat,185,Ujian,Sangat Ramai,4056,223,4279
+2025-07-19,Sabtu,185,Libur,Sepi,323,18,341
+2025-07-20,Minggu,185,Libur,Sepi,318,17,335
+2025-07-21,Senin,186,Ujian,Sangat Ramai,4060,225,4285
+2025-07-22,Selasa,186,Ujian,Sangat Ramai,4056,224,4280
+2025-07-23,Rabu,186,Ujian,Sangat Ramai,4057,226,4283
+2025-07-24,Kamis,186,Ujian,Sangat Ramai,4060,224,4284
+2025-07-25,Jumat,186,Ujian,Sangat Ramai,4053,225,4278
+2025-07-26,Sabtu,186,Libur,Sepi,328,18,346
+2025-07-27,Minggu,186,Libur,Sepi,320,18,338
+2025-07-28,Senin,187,Ujian,Sangat Ramai,4065,226,4291
+2025-07-29,Selasa,187,Ujian,Sangat Ramai,4065,225,4290
+2025-07-30,Rabu,187,Ujian,Sangat Ramai,4067,227,4294
+2025-07-31,Kamis,187,Ujian,Sangat Ramai,4075,226,4301
+2025-08-01,Jumat,187,Libur Akademik,Sepi,383,22,405
+2025-08-02,Sabtu,187,Libur,Sepi,332,18,350
+2025-08-03,Minggu,187,Libur,Sepi,320,17,337
+2025-08-04,Senin,188,Libur Akademik,Sepi,378,21,399
+2025-08-05,Selasa,188,Libur Akademik,Sepi,386,22,408
+2025-08-06,Rabu,188,Libur Akademik,Sepi,388,22,410
+2025-08-07,Kamis,188,Libur Akademik,Sepi,389,21,410
+2025-08-08,Jumat,188,Libur Akademik,Sepi,378,21,399
+2025-08-09,Sabtu,188,Libur,Sepi,326,17,343
+2025-08-10,Minggu,188,Libur,Sepi,315,17,332
+2025-08-11,Senin,189,Libur Akademik,Sepi,372,21,393
+2025-08-12,Selasa,189,Libur Akademik,Sepi,380,21,401
+2025-08-13,Rabu,189,Libur Akademik,Sepi,381,22,403
+2025-08-14,Kamis,189,Libur Akademik,Sepi,379,21,400
+2025-08-15,Jumat,189,Libur Akademik,Sepi,367,21,388
+2025-08-16,Sabtu,189,Libur,Sepi,318,17,335
+2025-08-17,Minggu,189,Libur,Sepi,315,17,332
+2025-08-18,Senin,190,Libur Akademik,Sepi,371,20,391
+2025-08-19,Selasa,190,Libur Akademik,Sepi,375,21,396
+2025-08-20,Rabu,190,Libur Akademik,Sepi,382,21,403
+2025-08-21,Kamis,190,Libur Akademik,Sepi,384,21,405
+2025-08-22,Jumat,190,Libur Akademik,Sepi,374,21,395
+2025-08-23,Sabtu,190,Libur,Sepi,326,17,343
+2025-08-24,Minggu,190,Libur,Sepi,317,17,334
+2025-08-25,Senin,191,Libur Akademik,Sepi,374,21,395
+2025-08-26,Selasa,191,Libur Akademik,Sepi,385,22,407
+2025-08-27,Rabu,191,Libur Akademik,Sepi,384,22,406
+2025-08-28,Kamis,191,Libur Akademik,Sepi,388,22,410
+2025-08-29,Jumat,191,Libur Akademik,Sepi,375,21,396
+2025-08-30,Sabtu,191,Libur,Sepi,323,18,341
+2025-08-31,Minggu,191,Libur,Sepi,318,17,335
+2025-09-01,Senin,192,Perkuliahan,Sepi,1857,104,1961
+2025-09-02,Selasa,192,Perkuliahan,Sepi,1869,104,1973
+2025-09-03,Rabu,192,Perkuliahan,Sepi,1857,103,1960
+2025-09-04,Kamis,192,Perkuliahan,Sepi,1859,102,1961
+2025-09-05,Jumat,192,Perkuliahan,Sepi,1836,102,1938
+2025-09-06,Sabtu,192,Libur,Sepi,320,18,338
+2025-09-07,Minggu,192,Libur,Sepi,315,17,332
+2025-09-08,Senin,193,Perkuliahan,Sepi,1831,102,1933
+2025-09-09,Selasa,193,Perkuliahan,Sepi,1851,102,1953
+2025-09-10,Rabu,193,Perkuliahan,Sepi,1837,103,1940
+2025-09-11,Kamis,193,Perkuliahan,Sepi,1836,102,1938
+2025-09-12,Jumat,193,Perkuliahan,Sepi,1828,101,1929
+2025-09-13,Sabtu,193,Libur,Sepi,315,17,332
+2025-09-14,Minggu,193,Libur,Sepi,315,17,332
+2025-09-15,Senin,194,Perkuliahan,Sepi,1814,101,1915
+2025-09-16,Selasa,194,Perkuliahan,Sepi,1820,102,1922
+2025-09-17,Rabu,194,Perkuliahan,Sepi,1826,102,1928
+2025-09-18,Kamis,194,Perkuliahan,Sepi,1839,102,1941
+2025-09-19,Jumat,194,Perkuliahan,Sepi,1826,101,1927
+2025-09-20,Sabtu,194,Libur,Sepi,316,17,333
+2025-09-21,Minggu,194,Libur,Sepi,315,17,332
+2025-09-22,Senin,195,Perkuliahan,Sepi,1825,102,1927
+2025-09-23,Selasa,195,Perkuliahan,Sepi,1833,102,1935
+2025-09-24,Rabu,195,Perkuliahan,Sepi,1847,102,1949
+2025-09-25,Kamis,195,Perkuliahan,Sepi,1847,102,1949
+2025-09-26,Jumat,195,Perkuliahan,Sepi,1840,103,1943
+2025-09-27,Sabtu,195,Libur,Sepi,327,17,344
+2025-09-28,Minggu,195,Libur,Sepi,315,17,332
+2025-09-29,Senin,196,Perkuliahan,Sepi,1847,104,1951
+2025-09-30,Selasa,196,Perkuliahan,Sepi,1858,104,1962
+2025-10-01,Rabu,196,Perkuliahan,Sepi,1859,103,1962
+2025-10-02,Kamis,196,Perkuliahan,Sepi,1857,104,1961
+2025-10-03,Jumat,196,Perkuliahan,Sepi,1848,103,1951
+2025-10-04,Sabtu,196,Libur,Sepi,322,17,339
+2025-10-05,Minggu,196,Libur,Sepi,315,17,332
+2025-10-06,Senin,197,Perkuliahan,Sepi,1834,102,1936
+2025-10-07,Selasa,197,Perkuliahan,Sepi,1850,103,1953
+2025-10-08,Rabu,197,Perkuliahan,Sepi,1849,103,1952
+2025-10-09,Kamis,197,Perkuliahan,Sepi,1830,103,1933
+2025-10-10,Jumat,197,Perkuliahan,Sepi,1825,101,1926
+2025-10-11,Sabtu,197,Libur,Sepi,315,17,332
+2025-10-12,Minggu,197,Libur,Sepi,315,17,332
+2025-10-13,Senin,198,Perkuliahan,Sepi,1831,102,1933
+2025-10-14,Selasa,198,Perkuliahan,Sepi,1835,102,1937
+2025-10-15,Rabu,198,Perkuliahan,Sepi,1836,102,1938
+2025-10-16,Kamis,198,Perkuliahan,Sepi,1839,101,1940
+2025-10-17,Jumat,198,Perkuliahan,Sepi,1817,102,1919
+2025-10-18,Sabtu,198,Libur,Sepi,315,17,332
+2025-10-19,Minggu,198,Libur,Sepi,315,17,332
+2025-10-20,Senin,199,Perkuliahan,Sepi,1835,101,1936
+2025-10-21,Selasa,199,Perkuliahan,Sepi,1839,102,1941
+2025-10-22,Rabu,199,Perkuliahan,Sepi,1844,102,1946
+2025-10-23,Kamis,199,Perkuliahan,Sepi,1851,103,1954
+2025-10-24,Jumat,199,Perkuliahan,Sepi,1837,102,1939
+2025-10-25,Sabtu,199,Libur,Sepi,322,18,340
+2025-10-26,Minggu,199,Libur,Sepi,315,17,332
+2025-10-27,Senin,200,Perkuliahan,Sepi,1851,103,1954
+2025-10-28,Selasa,200,Perkuliahan,Sepi,1858,103,1961
+2025-10-29,Rabu,200,Perkuliahan,Sepi,1854,104,1958
+2025-10-30,Kamis,200,Perkuliahan,Sepi,1863,103,1966
+2025-10-31,Jumat,200,Perkuliahan,Sepi,1846,103,1949
+2025-11-01,Sabtu,200,Libur,Sepi,326,18,344
+2025-11-02,Minggu,200,Libur,Sepi,319,17,336
+2025-11-03,Senin,201,Perkuliahan,Sepi,1843,103,1946
+2025-11-04,Selasa,201,Perkuliahan,Sepi,1868,104,1972
+2025-11-05,Rabu,201,Perkuliahan,Sepi,1869,103,1972
+2025-11-06,Kamis,201,Perkuliahan,Sepi,1851,104,1955
+2025-11-07,Jumat,201,Perkuliahan,Sepi,1851,102,1953
+2025-11-08,Sabtu,201,Libur,Sepi,324,17,341
+2025-11-09,Minggu,201,Libur,Sepi,315,17,332
+2025-11-10,Senin,202,Perkuliahan,Sepi,1844,102,1946
+2025-11-11,Selasa,202,Perkuliahan,Sepi,1851,103,1954
+2025-11-12,Rabu,202,Perkuliahan,Sepi,1854,102,1956
+2025-11-13,Kamis,202,Perkuliahan,Sepi,1833,103,1936
+2025-11-14,Jumat,202,Perkuliahan,Sepi,1825,102,1927
+2025-11-15,Sabtu,202,Libur,Sepi,321,17,338
+2025-11-16,Minggu,202,Libur,Sepi,315,17,332
+2025-11-17,Senin,203,Perkuliahan,Sepi,1832,101,1933
+2025-11-18,Selasa,203,Perkuliahan,Sepi,1840,103,1943
+2025-11-19,Rabu,203,Perkuliahan,Sepi,1838,104,1942
+2025-11-20,Kamis,203,Perkuliahan,Sepi,1850,103,1953
+2025-11-21,Jumat,203,Perkuliahan,Sepi,1845,103,1948
+2025-11-22,Sabtu,203,Libur,Sepi,326,17,343
+2025-11-23,Minggu,203,Libur,Sepi,319,17,336
+2025-11-24,Senin,204,Perkuliahan,Sepi,1854,103,1957
+2025-11-25,Selasa,204,Perkuliahan,Sepi,1867,103,1970
+2025-11-26,Rabu,204,Perkuliahan,Sepi,1877,104,1981
+2025-11-27,Kamis,204,Perkuliahan,Sepi,1862,103,1965
+2025-11-28,Jumat,204,Perkuliahan,Sepi,1860,104,1964
+2025-11-29,Sabtu,204,Libur,Sepi,332,18,350
+2025-11-30,Minggu,204,Libur,Sepi,325,18,343
+2025-12-01,Senin,205,Ujian,Sangat Ramai,4079,226,4305
+2025-12-02,Selasa,205,Ujian,Sangat Ramai,4071,227,4298
+2025-12-03,Rabu,205,Ujian,Sangat Ramai,4088,225,4313
+2025-12-04,Kamis,205,Ujian,Sangat Ramai,4075,225,4300
+2025-12-05,Jumat,205,Ujian,Sangat Ramai,4058,225,4283
+2025-12-06,Sabtu,205,Libur,Sepi,326,18,344
+2025-12-07,Minggu,205,Libur,Sepi,321,18,339
+2025-12-08,Senin,206,Ujian,Sangat Ramai,4045,225,4270
+2025-12-09,Selasa,206,Ujian,Sangat Ramai,4057,224,4281
+2025-12-10,Rabu,206,Ujian,Sangat Ramai,4051,225,4276
+2025-12-11,Kamis,206,Ujian,Sangat Ramai,4052,224,4276
+2025-12-12,Jumat,206,Ujian,Sangat Ramai,4035,223,4258
+2025-12-13,Sabtu,206,Libur,Sepi,323,17,340
+2025-12-14,Minggu,206,Libur,Sepi,316,17,333
+2025-12-15,Senin,207,Ujian,Sangat Ramai,4053,225,4278
+2025-12-16,Selasa,207,Ujian,Sangat Ramai,4059,225,4284
+2025-12-17,Rabu,207,Ujian,Sangat Ramai,4056,224,4280
+2025-12-18,Kamis,207,Ujian,Sangat Ramai,4068,224,4292
+2025-12-19,Jumat,207,Ujian,Sangat Ramai,4052,224,4276
+2025-12-20,Sabtu,207,Libur,Sepi,323,18,341
+2025-12-21,Minggu,207,Libur,Sepi,320,17,337
+2025-12-22,Senin,208,Ujian,Sangat Ramai,4071,226,4297
+2025-12-23,Selasa,208,Ujian,Sangat Ramai,4069,226,4295
+2025-12-24,Rabu,208,Ujian,Sangat Ramai,4084,226,4310
+2025-12-25,Kamis,208,Ujian,Sangat Ramai,4075,227,4302
+2025-12-26,Jumat,208,Ujian,Sangat Ramai,4087,227,4314
+2025-12-27,Sabtu,208,Libur,Sepi,334,18,352
+2025-12-28,Minggu,208,Libur,Sepi,328,18,346
+2025-12-29,Senin,209,Ujian,Sangat Ramai,4084,226,4310
+2025-12-30,Selasa,209,Ujian,Sangat Ramai,4098,228,4326
+2025-12-31,Rabu,209,Ujian,Sangat Ramai,4099,228,4327
